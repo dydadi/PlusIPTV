@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvznWBhj/TELEVISA-MONTERREY.jpg" group-title="Entretenimiento",TELEVISA
+http://172.93.102.112:8989/158509_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGD2hNgN/AZ-CORAZON.jpg" group-title="Entretenimiento",AZ CORAZÓN  ❤️
+http://104.238.222.251:8989/158612_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCjdNrX/AZ-CLIC.png" group-title="Entretenimiento",AZ CLICK
+http://172.93.102.112:8989/158613_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zG5ZP4H2/ADN-40.jpg" group-title="Entretenimiento",ADN 40
+http://104.238.222.251:8989/158614_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLd8sT6c/AZTECA-7.jpg" group-title="Entretenimiento",AZTECA 7
+http://104.238.222.251:8989/158617_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E
+http://199.127.63.143:8989/158672_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8T7QTPz/SPACE-1.png" group-title="Entretenimiento",SPACE
+http://172.93.102.112:8989/158778_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6BvVWz/CINECANAL.jpg" group-title="Entretenimiento",CINECANAL
+http://172.93.102.112:8989/158793_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX
+http://104.243.38.5:8989/278467_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX OPC 2
+http://104.238.222.251:8989/278468_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX OPC 3
+http://172.93.102.119:8989/279544_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0LWW96S/AZTECA-1.png" group-title="Entretenimiento",AZTECA UNO
+http://199.127.63.143:8989/158618_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk8Cfv23/CANAL_5.jpg" group-title="Entretenimiento",CANAL 5
+http://104.238.205.28:8989/158620_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1X5vBWR/CNN_ESPANOL.jpg" group-title="Entretenimiento",CNN ESPAÑOL
+http://172.93.102.112:8989/158621_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLXMsckk/CANAL_11.png" group-title="Entretenimiento",CANAL ONCE
+http://172.93.102.112:8989/158623_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJr52Bj/CATORCE.jpg" group-title="Entretenimiento",CANAL 14
+http://172.93.102.112:8989/158624_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqvhCGXB/CANAL22.jpg" group-title="Entretenimiento",CANAL 22
+http://172.93.102.112:8989/158625_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTMDDQ6j/CANAL_4_PNM.png" group-title="Entretenimiento",CANAL 4
+http://172.93.102.112:8989/158626_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpxhXp6S/FORO-TV.png" group-title="Entretenimiento",FORO TV
+http://172.93.102.112:8989/158627_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC3fBDbC/IMANGEN_TV.png" group-title="Entretenimiento",IMAGEN TV
+http://104.243.40.13:8989/158628_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKB6Ycc/INGENIO_TV.png" group-title="Entretenimiento",INGENIO TV
+http://172.93.102.112:8989/158629_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4CbDCFh/LAS-ESTRELLAS-2.png" group-title="Entretenimiento",LAS ESTRELLAS
+http://172.93.102.112:8989/158630_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4CbDCFh/LAS-ESTRELLAS-2.png" group-title="Entretenimiento",LAS ESTRELLAS OPC 2
+http://172.93.102.112:8989/158631_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76vLsw0G/MULTIMEDIOS.png" group-title="Entretenimiento",MULTIMEDIOS
+http://172.93.102.112:8989/158632_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76vLsw0G/MULTIMEDIOS.png" group-title="Entretenimiento",MULTIMEDIOS
+http://172.93.102.112:8989/158633_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N080zZ4d/TV-MAS.jpg" group-title="Entretenimiento",TV MÁS
+http://104.238.222.251:8989/158637_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Dd03g1/TELEMAX.png" group-title="Entretenimiento",TELEMAX
+http://104.238.222.251:8989/158640_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNQqqM17/TELEFORMULA.jpg" group-title="Entretenimiento",TELEFORMULA
+http://172.93.102.112:8989/158641_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NtFF93b/TLNOVELAS.jpg" group-title="Entretenimiento",TLNOVELAS
+http://172.93.102.112:8989/158649_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkPvTzN/AMC.png" group-title="Entretenimiento",AMC
+http://199.127.63.143:8989/278394_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xp7G5Bm/AXN.jpg" group-title="Entretenimiento",AXN
+http://104.238.222.251:8989/158671_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E
+http://199.127.63.143:8989/158672_.m3u8
