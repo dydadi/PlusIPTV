@@ -1,65 +1,1137 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvznWBhj/TELEVISA-MONTERREY.jpg" group-title="Entretenimiento",TELEVISA
-http://172.93.102.112:8989/158509_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGD2hNgN/AZ-CORAZON.jpg" group-title="Entretenimiento",AZ CORAZÓN  ❤️
-http://104.238.222.251:8989/158612_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCjdNrX/AZ-CLIC.png" group-title="Entretenimiento",AZ CLICK
-http://172.93.102.112:8989/158613_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zG5ZP4H2/ADN-40.jpg" group-title="Entretenimiento",ADN 40
-http://104.238.222.251:8989/158614_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLd8sT6c/AZTECA-7.jpg" group-title="Entretenimiento",AZTECA 7
-http://104.238.222.251:8989/158617_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E
-http://199.127.63.143:8989/158672_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8T7QTPz/SPACE-1.png" group-title="Entretenimiento",SPACE
-http://172.93.102.112:8989/158778_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6BvVWz/CINECANAL.jpg" group-title="Entretenimiento",CINECANAL
-http://172.93.102.112:8989/158793_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX
-http://104.243.38.5:8989/278467_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX OPC 2
-http://104.238.222.251:8989/278468_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",CINEMAX OPC 3
-http://172.93.102.119:8989/279544_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0LWW96S/AZTECA-1.png" group-title="Entretenimiento",AZTECA UNO
-http://199.127.63.143:8989/158618_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk8Cfv23/CANAL_5.jpg" group-title="Entretenimiento",CANAL 5
-http://104.238.205.28:8989/158620_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1X5vBWR/CNN_ESPANOL.jpg" group-title="Entretenimiento",CNN ESPAÑOL
-http://172.93.102.112:8989/158621_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLXMsckk/CANAL_11.png" group-title="Entretenimiento",CANAL ONCE
-http://172.93.102.112:8989/158623_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfJr52Bj/CATORCE.jpg" group-title="Entretenimiento",CANAL 14
-http://172.93.102.112:8989/158624_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqvhCGXB/CANAL22.jpg" group-title="Entretenimiento",CANAL 22
-http://172.93.102.112:8989/158625_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTMDDQ6j/CANAL_4_PNM.png" group-title="Entretenimiento",CANAL 4
-http://172.93.102.112:8989/158626_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpxhXp6S/FORO-TV.png" group-title="Entretenimiento",FORO TV
-http://172.93.102.112:8989/158627_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC3fBDbC/IMANGEN_TV.png" group-title="Entretenimiento",IMAGEN TV
-http://104.243.40.13:8989/158628_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tKB6Ycc/INGENIO_TV.png" group-title="Entretenimiento",INGENIO TV
-http://172.93.102.112:8989/158629_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4CbDCFh/LAS-ESTRELLAS-2.png" group-title="Entretenimiento",LAS ESTRELLAS
-http://172.93.102.112:8989/158630_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4CbDCFh/LAS-ESTRELLAS-2.png" group-title="Entretenimiento",LAS ESTRELLAS OPC 2
-http://172.93.102.112:8989/158631_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76vLsw0G/MULTIMEDIOS.png" group-title="Entretenimiento",MULTIMEDIOS
-http://172.93.102.112:8989/158632_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/76vLsw0G/MULTIMEDIOS.png" group-title="Entretenimiento",MULTIMEDIOS
-http://172.93.102.112:8989/158633_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N080zZ4d/TV-MAS.jpg" group-title="Entretenimiento",TV MÁS
-http://104.238.222.251:8989/158637_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5Dd03g1/TELEMAX.png" group-title="Entretenimiento",TELEMAX
-http://104.238.222.251:8989/158640_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNQqqM17/TELEFORMULA.jpg" group-title="Entretenimiento",TELEFORMULA
-http://172.93.102.112:8989/158641_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NtFF93b/TLNOVELAS.jpg" group-title="Entretenimiento",TLNOVELAS
-http://172.93.102.112:8989/158649_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkPvTzN/AMC.png" group-title="Entretenimiento",AMC
-http://199.127.63.143:8989/278394_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xp7G5Bm/AXN.jpg" group-title="Entretenimiento",AXN
-http://104.238.222.251:8989/158671_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E
-http://199.127.63.143:8989/158672_.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ae.png" group-title="Entretenimiento",A&E
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ae.png" group-title="HD",A&E HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/474.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/aplus.png" group-title="Mexico",A+
+http://user.tvcluboficial.com/stream/free_DANNA/emN/406.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/aplus.png" group-title="Mexico",A+
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1541.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/a3cine.png" group-title="España",A3Cine
+http://user.tvcluboficial.com/stream/free_DANNA/emN/945.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/a3series.png" group-title="España",A3Series
+http://user.tvcluboficial.com/stream/free_DANNA/emN/444.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/adn40.png" group-title="Noticias",ADN 40
+http://user.tvcluboficial.com/stream/free_DANNA/emN/447.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/adn40.png" group-title="Noticias",ADN 40
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1542.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/afizzionados.png" group-title="Deportes",Afizzionados
+http://user.tvcluboficial.com/stream/free_DANNA/emN/939.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/afizzionados.png" group-title="Deportes",Afizzionados HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/878.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/aljazeera.png" group-title="Deportes",Al Jazeera
+http://user.tvcluboficial.com/stream/free_DANNA/emN/668.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/alf.png" group-title="24/7",Alf 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/426.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/amc.png" group-title="Entretenimiento",AMC
+http://user.tvcluboficial.com/stream/free_DANNA/emN/183.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/amc.png" group-title="España",AMC (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/981.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/amc.png" group-title="HD",AMC HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/475.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/americaperu.png" group-title="Peru",America TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/780.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/animalplanet.png" group-title="Cultura",Animal Planet
+http://user.tvcluboficial.com/stream/free_DANNA/emN/3.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/animalplanet.png" group-title="HD",Animal Planet HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/633.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/animaniacs.png" group-title="24/7",Animaniacs 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/677.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/antena3.png" group-title="España",Antena 3
+http://user.tvcluboficial.com/stream/free_DANNA/emN/298.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/axn.png" group-title="Entretenimiento",AXN
+http://user.tvcluboficial.com/stream/free_DANNA/emN/146.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/axn.png" group-title="Entretenimiento",AXN Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/804.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/axn.png" group-title="HD",AXN HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/476.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/axn.png" group-title="España",AXN HD (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/713.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/axn.png" group-title="España",AXN WHITE HD (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/714.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/aymsports.png" group-title="Deportes",AyM Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/148.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azcinema.png" group-title="Peliculas",Az Cinema
+http://user.tvcluboficial.com/stream/free_DANNA/emN/186.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azclic.png" group-title="Entretenimiento",Az Clic
+http://user.tvcluboficial.com/stream/free_DANNA/emN/165.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azcorazon.png" group-title="Entretenimiento",AZ Corazon
+http://user.tvcluboficial.com/stream/free_DANNA/emN/166.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azcorazon.png" group-title="HD",Az Corazón HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/834.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azteca7.png" group-title="Mexico",Azteca 7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logo_Azteca_7_2011.svg" group-title="Mexico",Azteca 7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/529.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azteca7.png" group-title="HD",Azteca 7 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/635.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azteca1.png" group-title="Mexico",Azteca Uno
+http://user.tvcluboficial.com/stream/free_DANNA/emN/4.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azteca1.png" group-title="Mexico",Azteca Uno
+http://user.tvcluboficial.com/stream/free_DANNA/emN/414.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/azteca1.png" group-title="HD",Azteca Uno HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/634.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/babytv.png" group-title="Infantiles",Baby TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/7.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bandamax.png" group-title="Musica",Bandamax
+http://user.tvcluboficial.com/stream/free_DANNA/emN/8.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bandamax.png" group-title="HD",Bandamax HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/833.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Bayblade 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1584.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bbc.png" group-title="Noticias",BBC HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/931.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/beinsports.png" group-title="Deportes",BeinSports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/753.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/beinsports.png" group-title="HD",BeinSports HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/9.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/beinsportsn.png" group-title="Deportes",BeinSports Ñ
+http://user.tvcluboficial.com/stream/free_DANNA/emN/761.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/beinsportsn.png" group-title="HD",BeinSports Ñ HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/376.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bitme.png" group-title="Entretenimiento",BitMe
+http://user.tvcluboficial.com/stream/free_DANNA/emN/946.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/518.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/bolivision.png" group-title="Bolivia",Bolivision
+http://user.tvcluboficial.com/stream/free_DANNA/emN/783.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/breakingbad.png" group-title="24/7",Breaking Bad 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/846.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/427.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1565.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Calabozos y Dragones 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1566.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/canal5.png" group-title="Mexico",Canal 5
+http://user.tvcluboficial.com/stream/free_DANNA/emN/14.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/canal5.png" group-title="HD",Canal 5 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/941.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/q8r7W/5c19627d41.png" group-title="Honduras",Canal 5 Honduras
+http://user.tvcluboficial.com/stream/free_DANNA/emN/773.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/canaldelamusica.png" group-title="Musica",Canal de la Musica
+http://user.tvcluboficial.com/stream/free_DANNA/emN/962.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/411.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/736.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lasestrellas.png" group-title="HD",Canal de las Estrellas HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/636.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/canalonce.png" group-title="Mexico",Canal Once
+http://user.tvcluboficial.com/stream/free_DANNA/emN/15.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/toros.png" group-title="Deportes",Canal+ Toros
+http://user.tvcluboficial.com/stream/free_DANNA/emN/369.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Candy Candy 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/808.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cantinflas.png" group-title="24/7",Cantinflas 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/428.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/caracol.png" group-title="Colombia",Caracol
+http://user.tvcluboficial.com/stream/free_DANNA/emN/391.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/caracol.png" group-title="Entretenimiento",Caracol Internacional
+http://user.tvcluboficial.com/stream/free_DANNA/emN/290.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/17.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/737.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cartoonnetwork.png" group-title="HD",Cartoon Network HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/637.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cartoonito.png" group-title="Infantiles",Cartoonito
+http://user.tvcluboficial.com/stream/free_DANNA/emN/11.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cartoonito.png" group-title="HD",Cartoonito HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/824.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/casocerrado.png" group-title="24/7",Caso Cerrado 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/907.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cbeebies.png" group-title="Infantiles",CBeebies
+http://user.tvcluboficial.com/stream/free_DANNA/emN/13.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cbs.png" group-title="Noticias",CBS HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/932.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cdf.png" group-title="Deportes",CDF Premium (TNT Sports Chile)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/318.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cdfpremium.png" group-title="HD",CDF Premium HD (TNT Sports Chile)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/725.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
+http://user.tvcluboficial.com/stream/free_DANNA/emN/206.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cdo.png" group-title="Deportes",CDO
+http://user.tvcluboficial.com/stream/free_DANNA/emN/513.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cdopremium.png" group-title="Deportes",CDO Premium
+http://user.tvcluboficial.com/stream/free_DANNA/emN/401.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/celebritydeathmatch.png" group-title="24/7",Celebrity Deathmatch (EN) 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/985.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/418.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg" group-title="24/7",Chespirito 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/417.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chv.png" group-title="Colombia",CHV Chilevision
+http://user.tvcluboficial.com/stream/free_DANNA/emN/198.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine 2023-2024
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1589.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Accion 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/990.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Accion HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1022.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Accion Sagas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/700.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Accion Sagas HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/707.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia
+http://user.tvcluboficial.com/stream/free_DANNA/emN/695.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 1 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/914.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/696.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/915.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Ficcion/Fantasia
+http://user.tvcluboficial.com/stream/free_DANNA/emN/709.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Ficcion/Fantasia 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/710.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Ficcion/Fantasia 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/711.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Ficcion/Fantasia HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/712.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil
+http://user.tvcluboficial.com/stream/free_DANNA/emN/687.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/702.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil Sagas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/694.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil Sagas HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/703.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinelatino.png" group-title="Peliculas",Cine Latino
+http://user.tvcluboficial.com/stream/free_DANNA/emN/295.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Marvel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/697.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Marvel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/701.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance
+http://user.tvcluboficial.com/stream/free_DANNA/emN/689.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/705.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Terror
+http://user.tvcluboficial.com/stream/free_DANNA/emN/693.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Terror HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/704.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Terror Sagas HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1550.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Zombis
+http://user.tvcluboficial.com/stream/free_DANNA/emN/688.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Zombis HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/917.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinecanal.png" group-title="Peliculas",Cinecanal
+http://user.tvcluboficial.com/stream/free_DANNA/emN/18.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinecanal.png" group-title="Peliculas",Cinecanal Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/738.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinecanal.png" group-title="HD",Cinecanal HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/479.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinemax.png" group-title="Peliculas",Cinemax
+http://user.tvcluboficial.com/stream/free_DANNA/emN/20.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinemax.png" group-title="Peliculas",Cinemax Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/739.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cinemax.png" group-title="HD",Cinemax HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/638.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/clarosports.png" group-title="Deportes",Claro Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/328.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/comedycentral.png" group-title="Entretenimiento",Comedy Central
+http://user.tvcluboficial.com/stream/free_DANNA/emN/135.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/740.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/comedycentral.png" group-title="España",Comedy Central (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/719.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/comedycentral.png" group-title="HD",Comedy Central HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/480.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/519.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/720.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/csi_miami.png" group-title="24/7",CSI: Miami 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/908.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/daria.png" group-title="24/7",Daria 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/983.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/depelicula.png" group-title="Peliculas",De Pelicula
+http://user.tvcluboficial.com/stream/free_DANNA/emN/21.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dpeliculaclasico.png" group-title="Peliculas",De Pelicula Clasico
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1545.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/depelicula.png" group-title="HD",De Pelicula HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/481.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dpeliculaplus.png" group-title="HD",De Pelicula Plus HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1544.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dhe.png" group-title="Peliculas",DHE
+http://user.tvcluboficial.com/stream/free_DANNA/emN/844.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/670.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverychannel.png" group-title="Cultura",Discovery Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/22.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/741.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverychannel.png" group-title="HD",Discovery Channel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/639.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverycivilization.png" group-title="Cultura",Discovery Civilization
+http://user.tvcluboficial.com/stream/free_DANNA/emN/23.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryhh.png" group-title="Cultura",Discovery H&H
+http://user.tvcluboficial.com/stream/free_DANNA/emN/24.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/742.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryhh.png" group-title="HD",Discovery H&H HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/640.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverykids.png" group-title="Infantiles",Discovery Kids
+http://user.tvcluboficial.com/stream/free_DANNA/emN/25.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverykids.png" group-title="HD",Discovery Kids HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/641.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverysci.png" group-title="Cultura",Discovery SCI
+http://user.tvcluboficial.com/stream/free_DANNA/emN/26.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoverytheater.png" group-title="Cultura",Discovery Theater HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/27.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryturbo.png" group-title="Cultura",Discovery Turbo
+http://user.tvcluboficial.com/stream/free_DANNA/emN/28.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryturbo.png" group-title="HD",Discovery Turbo HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/727.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/discoveryworld.png" group-title="Cultura",Discovery World
+http://user.tvcluboficial.com/stream/free_DANNA/emN/187.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneychannel.png" group-title="Infantiles",Disney Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/29.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyjr.png" group-title="Infantiles",Disney Junior
+http://user.tvcluboficial.com/stream/free_DANNA/emN/30.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyjr.png" group-title="Infantiles",Disney Junior Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/743.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyjr.png" group-title="HD",Disney Junior HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/826.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyxd.png" group-title="Infantiles",Disney XD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/31.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyxd.png" group-title="Infantiles",Disney XD Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/744.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/disneyxd.png" group-title="HD",Disney XD HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/827.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
+http://user.tvcluboficial.com/stream/free_DANNA/emN/32.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/djing.png" group-title="Musica",Djing Ibiza
+http://user.tvcluboficial.com/stream/free_DANNA/emN/277.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dmax.png" group-title="España",DMax HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/923.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/doraemon.png" group-title="24/7",Doraemon 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/521.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Doug 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1583.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/drhouse.png" group-title="24/7",Dr. House 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1548.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball (ES) 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/984.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/425.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonball.png" group-title="24/7",Dragon Ball 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1546.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/520.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1547.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/424.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1551.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/329.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xdUYa/051eb44501.png" group-title="24/7",Dragon Ball Z 24/7 Op.2 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/415.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballzkai.png" group-title="Peliculas",Dragon Ball Z Kai 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/993.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/dragonballzkai.png" group-title="24/7",Dragon Ball Z Kai 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1552.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvsports.png" group-title="Deportes",DSports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/259.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvplus.png" group-title="Deportes",DSports +
+http://user.tvcluboficial.com/stream/free_DANNA/emN/935.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvsports2.png" group-title="Deportes",DSports 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/667.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvsports2.png" group-title="Deportes",DSports 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/975.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvsports2.png" group-title="Deportes",DSports 2 Sur HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/978.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/directvsports.png" group-title="Deportes",DSports HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/974.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Duelo Xiaolin 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1582.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/e.png" group-title="Entretenimiento",E!
+http://user.tvcluboficial.com/stream/free_DANNA/emN/33.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/e.png" group-title="HD",E! HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/483.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ecuavisa.png" group-title="Ecuador",Ecuavisa
+http://user.tvcluboficial.com/stream/free_DANNA/emN/319.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Ed, Edd y Eddy 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1581.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/el13argentina.png" group-title="Argentina",El 13 Argentina
+http://user.tvcluboficial.com/stream/free_DANNA/emN/239.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/canaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol
+http://user.tvcluboficial.com/stream/free_DANNA/emN/892.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/790.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/400.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elcondepatula.png" group-title="24/7",El Conde Patula 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/949.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/429.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/845.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elgourmet.png" group-title="Entretenimiento",El Gourmet
+http://user.tvcluboficial.com/stream/free_DANNA/emN/157.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/791.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elnueveargentina.png" group-title="Argentina",El Nueve
+http://user.tvcluboficial.com/stream/free_DANNA/emN/772.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/525.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",El Pato Darkwing 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1579.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elprincipedelrap.png" group-title="24/7",El Principe del Rap 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/430.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elprincipedelrap.png" group-title="24/7",El Principe del Rap 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1553.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/elseniordeloscielos.png" group-title="24/7",El Señor de los Cielos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/820.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/eltrecechile.png" group-title="Chile",El Trece
+http://user.tvcluboficial.com/stream/free_DANNA/emN/765.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Argentina",El Trece
+http://user.tvcluboficial.com/stream/free_DANNA/emN/767.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Elementary 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1578.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Elfen Lied 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1588.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn.png" group-title="Deportes",ESPN
+http://user.tvcluboficial.com/stream/free_DANNA/emN/34.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn2.png" group-title="Deportes",ESPN 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/35.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn2.png" group-title="HD",ESPN 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/484.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn2.png" group-title="Deportes",ESPN 2 MX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/531.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn3.png" group-title="HD",ESPN 3 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/485.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn.png" group-title="HD",ESPN HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/486.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espn.png" group-title="Deportes",ESPN MX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/530.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espnplus.png" group-title="Deportes",ESPN Plus
+http://user.tvcluboficial.com/stream/free_DANNA/emN/37.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espnplus.png" group-title="HD",ESPN Plus HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/487.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/espnpremium.png" group-title="Deportes",ESPN Premium HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/952.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/estrellatv.png" group-title="Entretenimiento",Estrella TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/177.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/europa.png" group-title="Entretenimiento",Europa Europa
+http://user.tvcluboficial.com/stream/free_DANNA/emN/957.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fearthewalkingdead.png" group-title="24/7",Fear The Walking Dead 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1558.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/filmarts.png" group-title="HD",Film & Arts HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/149.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/filmarts.png" group-title="HD",Film & Arts HD (EN)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/731.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foodnetwork.png" group-title="Entretenimiento",Food Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/961.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/f1.png" group-title="Deportes",Formula 1 TV (F1)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/192.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/forotv.png" group-title="Noticias",Foro TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1543.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fox.png" group-title="Entretenimiento",Fox (ES) HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/926.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star_life.png" group-title="Entretenimiento",Fox Life Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/746.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxnews.png" group-title="Noticias",Fox News
+http://user.tvcluboficial.com/stream/free_DANNA/emN/960.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="Deportes",Fox Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/52.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports2.png" group-title="Deportes",Fox Sports 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/53.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/770.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports2.png" group-title="HD",Fox Sports 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/494.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/528.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports3.png" group-title="HD",Fox Sports 3 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/839.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports3.png" group-title="Deportes",Fox Sports 3 MX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/54.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="HD",Fox Sports Argentina HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/769.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="HD",Fox Sports HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/493.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="Deportes",Fox Sports MX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/527.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="Deportes",Fox Sports MX Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/748.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
+http://user.tvcluboficial.com/stream/free_DANNA/emN/512.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/658.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports.png" group-title="Deportes",Fox Sports Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/402.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/410.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
+http://user.tvcluboficial.com/stream/free_DANNA/emN/511.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Friends 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1577.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fs1.png" group-title="USA",FS1 USA HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/936.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fs2.png" group-title="USA",FS2 USA HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/937.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/793.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fx.png" group-title="Entretenimiento",FX
+http://user.tvcluboficial.com/stream/free_DANNA/emN/42.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fx.png" group-title="Entretenimiento",FX Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/749.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fx.png" group-title="HD",FX HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/495.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fxm.png" group-title="Peliculas",FXM
+http://user.tvcluboficial.com/stream/free_DANNA/emN/43.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/fxm.png" group-title="HD",FXM HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/488.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/galatv.png" group-title="Mexico",Gala TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/56.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/galatv.png" group-title="HD",Gala TV HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/651.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/gamavision.png" group-title="Ecuador",Gamavision
+http://user.tvcluboficial.com/stream/free_DANNA/emN/891.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/515.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/garagetv.png" group-title="HD",Garage TV HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/156.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Garfield 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/812.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/glitz.png" group-title="Entretenimiento",Glitz
+http://user.tvcluboficial.com/stream/free_DANNA/emN/158.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/golperu.png" group-title="Deportes",Gol Peru
+http://user.tvcluboficial.com/stream/free_DANNA/emN/686.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/goltv.png" group-title="Deportes",Gol TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/287.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/goltv.png" group-title="HD",Gol TV HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/514.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/golden.png" group-title="Peliculas",Golden
+http://user.tvcluboficial.com/stream/free_DANNA/emN/57.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/goldenedge.png" group-title="Peliculas",Golden Edge
+http://user.tvcluboficial.com/stream/free_DANNA/emN/58.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/golden.png" group-title="HD",Golden HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/496.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/golfchannel.png" group-title="Deportes",Golf Channel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/964.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/greysanatomy.png" group-title="24/7",Greys Anatomy 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1549.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/h2.png" group-title="Cultura",H2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/61.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/h2.png" group-title="Cultura",H2 Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/760.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/happytreefriends.png" group-title="Peliculas",Happy Tree Friends 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/992.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbo.png" group-title="Peliculas",HBO
+http://user.tvcluboficial.com/stream/free_DANNA/emN/62.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbo2.png" group-title="Peliculas",HBO 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/300.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbo2.png" group-title="HD",HBO 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/732.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbo2.png" group-title="HD",HBO 2 HD (EN)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/733.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbofamily.png" group-title="Peliculas",HBO Family
+http://user.tvcluboficial.com/stream/free_DANNA/emN/63.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbofamily.png" group-title="Peliculas",HBO Family HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/968.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbo.png" group-title="HD",HBO HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/654.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hboplus.png" group-title="Peliculas",HBO Plus
+http://user.tvcluboficial.com/stream/free_DANNA/emN/64.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hboplus.png" group-title="HD",HBO Plus HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/655.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hboplus.png" group-title="HD",HBO Plus Oeste HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/728.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hbopop.png" group-title="Peliculas",HBO Pop
+http://user.tvcluboficial.com/stream/free_DANNA/emN/977.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+http://user.tvcluboficial.com/stream/free_DANNA/emN/814.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hboxtreme.png" group-title="Peliculas",HBO Xtreme HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/971.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hchhonduras.png" group-title="Honduras",HCH
+http://user.tvcluboficial.com/stream/free_DANNA/emN/779.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/heman.png" group-title="Peliculas",He-Man 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/996.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Hercules 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1576.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/522.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/history.png" group-title="España",Historia (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/718.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/history.png" group-title="Cultura",History Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/67.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/history.png" group-title="HD",History Channel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/642.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hittv.png" group-title="Musica",Hit TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/201.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/hola.png" group-title="Entretenimiento",Hola TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/189.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/htv.png" group-title="Musica",HTV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/66.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/isat.png" group-title="Peliculas",I.Sat
+http://user.tvcluboficial.com/stream/free_DANNA/emN/153.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/imagentv.png" group-title="Mexico",Imagen Television
+http://user.tvcluboficial.com/stream/free_DANNA/emN/341.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/imagentv.png" group-title="HD",Imagen Televisión HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/643.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
+http://user.tvcluboficial.com/stream/free_DANNA/emN/68.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/investigationdiscovery.png" group-title="HD",Investigation Discovery HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/825.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ironman.png" group-title="24/7",Ironman 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/948.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/786.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/jorgeelcurioso.png" group-title="24/7",Jorge el Curioso 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/909.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/la1.png" group-title="España",La 1 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/927.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/la2hd.png" group-title="España",La 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/967.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",La Casa de los Dibujos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1575.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lafamiliamonster.png" group-title="24/7",La Familia Monster 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",La Familia PeLuche 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/811.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lahorapico.png" group-title="24/7",La Hora Pico 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/887.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",La Hormiga Atomica 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1574.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",La Mascara 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1573.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/671.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/792.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lareinadelsur.png" group-title="24/7",La Reina del Sur 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1559.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/886.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lasexta.png" group-title="España",La Sexta HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/928.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lavacayelpollito.png" group-title="24/7",La Vaca y ElPollito 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/809.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Las Aventuras de Tom Sawyer 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1585.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Las Chicas Super Poderosas 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1572.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/latinatv.png" group-title="Uruguay",Latina
+http://user.tvcluboficial.com/stream/free_DANNA/emN/782.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/888.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lifetime.png" group-title="Entretenimiento",Lifetime
+http://user.tvcluboficial.com/stream/free_DANNA/emN/152.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ligadecampeones.png" group-title="Deportes",Liga de Campeones
+http://user.tvcluboficial.com/stream/free_DANNA/emN/890.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/893.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/524.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/423.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Los Amigos de la Justicia 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1580.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/810.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Los Chicos del Barrio 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1571.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Los Expedientes Secretos X 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1570.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lospadrinosmagicos.png" group-title="24/7",Los Padrinos Magicos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/813.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/669.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/794.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lospitufos.png" group-title="24/7",Los Pitufos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/795.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/796.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 1-5) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/894.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 12-17) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/896.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 18-21) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/897.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 22-26) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/898.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 27-30) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/899.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 6-11) 24/7 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/895.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/357.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/797.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/losvengadoresunidos.png" group-title="24/7",Los Vengadores Unidos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/818.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/malcolm.png" group-title="24/7",Malcolm 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/911.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/malcolm.png" group-title="24/7",Malcolm HD 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/798.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/maschic.png" group-title="Entretenimiento",Más chic
+http://user.tvcluboficial.com/stream/free_DANNA/emN/180.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="HD",Max Prime HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/730.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/maxsteel.png" group-title="24/7",Max Steel 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/880.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="HD",Max Up HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/659.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mazingerz.png" group-title="24/7",Mazinger Z 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1560.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mega.png" group-title="Chile",Mega
+http://user.tvcluboficial.com/stream/free_DANNA/emN/766.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mega.png" group-title="Puerto Rico",Mega
+http://user.tvcluboficial.com/stream/free_DANNA/emN/784.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mega.png" group-title="España",Mega ES HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/929.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Entretenimiento",Miami TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/251.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/milenio.png" group-title="Noticias",Milenio HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/140.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mlb.png" group-title="USA",MLB Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/293.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/morbidotv.png" group-title="Deportes",Morbido TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/966.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/moviemax.png" group-title="Peliculas",Movie Max
+http://user.tvcluboficial.com/stream/free_DANNA/emN/678.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/maccion.png" group-title="España",Movistar Accion HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/364.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_comedia.png" group-title="España",Movistar Cine Ñ
+http://user.tvcluboficial.com/stream/free_DANNA/emN/371.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_comedia.png" group-title="España",Movistar Comedia
+http://user.tvcluboficial.com/stream/free_DANNA/emN/370.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/367.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_deportes.png" group-title="Deportes",Movistar Deportes HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/925.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_deportes.png" group-title="Deportes",Movistar Deportes Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/366.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_estrenos.png" group-title="España",Movistar Estrenos HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/976.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_laliga.png" group-title="HD",Movistar LaLiga HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/916.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/movistar_series.png" group-title="Entretenimiento",Movistar Series HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/924.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mrbean.png" group-title="24/7",Mr. Bean 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/431.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="Musica",MTV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/69.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="España",MTV (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/803.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="Entretenimiento",MTV 00s
+http://user.tvcluboficial.com/stream/free_DANNA/emN/953.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="Entretenimiento",MTV 90s
+http://user.tvcluboficial.com/stream/free_DANNA/emN/955.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="HD",MTV HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/828.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtvlive.png" group-title="Musica",MTV Live
+http://user.tvcluboficial.com/stream/free_DANNA/emN/70.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="Musica",MTV Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/823.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mtv.png" group-title="Musica",MTV WW
+http://user.tvcluboficial.com/stream/free_DANNA/emN/954.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/muchmusic.png" group-title="Musica",Much Music
+http://user.tvcluboficial.com/stream/free_DANNA/emN/950.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/muchalucha.png" group-title="Peliculas",Mucha Lucha 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/994.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/muchalucha.png" group-title="Peliculas",Mucha Lucha HD 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/995.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multimedios.png" group-title="Mexico",Multimedios
+http://user.tvcluboficial.com/stream/free_DANNA/emN/155.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multimedios.png" group-title="Mexico",Multimedios (Monterrey)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/979.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multimedios.png" group-title="HD",Multimedios (Monterrey) HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/980.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multimedios.png" group-title="HD",Multimedios HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/943.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multimedios.png" group-title="Mexico",Multimedios Plus
+http://user.tvcluboficial.com/stream/free_DANNA/emN/325.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/multipremier.png" group-title="Peliculas",MultiPremier
+http://user.tvcluboficial.com/stream/free_DANNA/emN/294.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Musica",Music Now
+http://user.tvcluboficial.com/stream/free_DANNA/emN/690.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/musictop.png" group-title="Musica",Music Top
+http://user.tvcluboficial.com/stream/free_DANNA/emN/691.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/mvs.png" group-title="Noticias",MVS Noticias
+http://user.tvcluboficial.com/stream/free_DANNA/emN/448.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/naruto.png" group-title="24/7",Naruto 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/523.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/natgeo.png" group-title="Cultura",Nat Geo
+http://user.tvcluboficial.com/stream/free_DANNA/emN/76.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/natgeo.png" group-title="HD",Nat Geo HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/644.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/natgeokids.png" group-title="Infantiles",Nat Geo Kids
+http://user.tvcluboficial.com/stream/free_DANNA/emN/412.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/natgeowild.png" group-title="Cultura",Nat Geo Wild
+http://user.tvcluboficial.com/stream/free_DANNA/emN/77.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/natgeowild.png" group-title="HD",Nat Geo Wild HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/497.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nba.png" group-title="Deportes",NBA
+http://user.tvcluboficial.com/stream/free_DANNA/emN/838.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nbcgolf.png" group-title="Deportes",NBC Golf
+http://user.tvcluboficial.com/stream/free_DANNA/emN/947.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nbc.png" group-title="Noticias",NBC HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/933.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nbcuniverso.png" group-title="USA",NBC Universo
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1537.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/neongenesis.png" group-title="24/7",Neon Genesis Evangelion 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1561.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/neox.png" group-title="España",Neox (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/353.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nfl.png" group-title="Deportes",NFL Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/204.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nhl.png" group-title="USA",NHL Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1535.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nick.png" group-title="Infantiles",Nick
+http://user.tvcluboficial.com/stream/free_DANNA/emN/78.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nick2.png" group-title="HD",Nick 2 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/646.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nick.png" group-title="HD",Nick HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/645.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nickjr.png" group-title="Infantiles",Nick JR
+http://user.tvcluboficial.com/stream/free_DANNA/emN/79.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nickjr.png" group-title="HD",Nick JR HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/829.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nicktoons.png" group-title="Infantiles",Nick Toons
+http://user.tvcluboficial.com/stream/free_DANNA/emN/80.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://user.tvcluboficial.com/stream/free_DANNA/emN/184.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Nosotros los Guapos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1586.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/nova.png" group-title="España",Nova (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/717.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/onepunchman.png" group-title="24/7",One Punch Man 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/661.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pac12.png" group-title="Deportes",PAC12 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/934.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/416.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pakapaka.png" group-title="Entretenimiento",PakaPaka
+http://user.tvcluboficial.com/stream/free_DANNA/emN/959.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/paramount.png" group-title="Peliculas",Paramount
+http://user.tvcluboficial.com/stream/free_DANNA/emN/200.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/paramount.png" group-title="HD",Paramount HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/647.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/paramount.png" group-title="Peliculas",Paramount HD (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/970.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pasiones.png" group-title="HD",Pasiones HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/755.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/patoaventuras.png" group-title="24/7",Patoaventuras 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/819.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/patrullacanina.png" group-title="24/7",Patrulla Canina 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/807.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/peppapig.png" group-title="24/7",Peppa Pig 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/787.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/america_peru.png" group-title="Peru",PERU: América TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/304.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Peru",PERU: Antares TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/451.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Peru",PERU: BHTV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/399.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/latinatv.png" group-title="Peru",PERU: Latina
+http://user.tvcluboficial.com/stream/free_DANNA/emN/317.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Peru",PERU: RBC
+http://user.tvcluboficial.com/stream/free_DANNA/emN/220.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/rpp_peru.png" group-title="Peru",PERU: RPP
+http://user.tvcluboficial.com/stream/free_DANNA/emN/336.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Peru",PERU: TV Peru
+http://user.tvcluboficial.com/stream/free_DANNA/emN/306.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/721.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pocoyo.png" group-title="24/7",Pocoyo 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/799.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pokemon.png" group-title="24/7",Pokemon 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/420.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pokemon.png" group-title="24/7",Pokemon 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1564.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/popcornflix.png" group-title="USA",PopCornFlix HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1536.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/prisonbreak.png" group-title="24/7",Prison Break 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/884.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/pxtv.png" group-title="Deportes",PX TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/193.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/quieromusica.png" group-title="Musica",Quiero Musica
+http://user.tvcluboficial.com/stream/free_DANNA/emN/958.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ranma.png" group-title="24/7",Ranma 1/2 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/419.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/rcn.png" group-title="Colombia",RCN
+http://user.tvcluboficial.com/stream/free_DANNA/emN/390.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/rcnnovelas.png" group-title="Colombia",RCN Novelas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/279.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/retromusic.png" group-title="Musica",Retro Music
+http://user.tvcluboficial.com/stream/free_DANNA/emN/692.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ritmoson.png" group-title="Musica",Ritmoson Latino
+http://user.tvcluboficial.com/stream/free_DANNA/emN/154.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/rtp.png" group-title="Bolivia",RTP
+http://user.tvcluboficial.com/stream/free_DANNA/emN/781.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Rugrats 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1569.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Rugrats Crecidos 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1568.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/sailormoon.png" group-title="24/7",Sailor Moon 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1562.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/672.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/sakura.png" group-title="24/7",Sakura Card Captor 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1554.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/samuraix.png" group-title="24/7",Samurai X 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/663.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/samuraix.png" group-title="24/7",Samurai X 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1555.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/422.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png" group-title="24/7",Series Comedia 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/918.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/skysports.png" group-title="Deportes",SKY Sports MX HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/989.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/skysports.png" group-title="Deportes",SKY Sports Premier HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/900.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/smallville.png" group-title="24/7",Smallville 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/673.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/sony.png" group-title="Entretenimiento",Sony
+http://user.tvcluboficial.com/stream/free_DANNA/emN/145.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/sony.png" group-title="HD",Sony HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/498.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/southpark.png" group-title="24/7",South Park 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/674.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/space.png" group-title="Peliculas",Space
+http://user.tvcluboficial.com/stream/free_DANNA/emN/83.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/space.png" group-title="Peliculas",Space Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/751.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/space.png" group-title="HD",Space HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/499.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/spiderman.png" group-title="24/7",Spiderman 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/889.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star.png" group-title="Entretenimiento",Star Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/45.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star.png" group-title="HD",Star Channel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/489.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star_fun.png" group-title="Peliculas",Star Fun
+http://user.tvcluboficial.com/stream/free_DANNA/emN/49.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star_hits.png" group-title="HD",Star Hits HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/491.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star_life.png" group-title="Entretenimiento",Star Life
+http://user.tvcluboficial.com/stream/free_DANNA/emN/50.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/star_life.png" group-title="HD",Star Life HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/652.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/startve.png" group-title="España",StarTVE
+http://user.tvcluboficial.com/stream/free_DANNA/emN/944.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_cinema.png" group-title="Peliculas",Starz Cinema
+http://user.tvcluboficial.com/stream/free_DANNA/emN/680.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_comedy.png" group-title="Peliculas",Starz Comedy
+http://user.tvcluboficial.com/stream/free_DANNA/emN/681.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action
+http://user.tvcluboficial.com/stream/free_DANNA/emN/682.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_encoreblack.png" group-title="Peliculas",Starz Encore Black
+http://user.tvcluboficial.com/stream/free_DANNA/emN/683.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family
+http://user.tvcluboficial.com/stream/free_DANNA/emN/684.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/starz_hd.png" group-title="HD",Starz HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/685.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/studiouniversal.png" group-title="Peliculas",Studio Universal
+http://user.tvcluboficial.com/stream/free_DANNA/emN/84.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/studiouniversal.png" group-title="HD",Studio Universal HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/830.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/supercampeones.png" group-title="24/7",Super Campeones 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/432.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/supernatural.png" group-title="24/7",Supernatural 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1563.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/syfy.png" group-title="Peliculas",SyFy
+http://user.tvcluboficial.com/stream/free_DANNA/emN/151.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/syfy.png" group-title="Peliculas",SyFy Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/758.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/syfy.png" group-title="Peliculas",SyFy (ES) HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/969.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/syfy.png" group-title="HD",SyFy HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/648.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tbs.png" group-title="Entretenimiento",TBS Very Funny
+http://user.tvcluboficial.com/stream/free_DANNA/emN/171.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tbs.png" group-title="HD",TBS Very Funny HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/831.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tc.png" group-title="Entretenimiento",TC Ecuador
+http://user.tvcluboficial.com/stream/free_DANNA/emN/885.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tcm.png" group-title="Peliculas",TCM
+http://user.tvcluboficial.com/stream/free_DANNA/emN/85.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teennick.png" group-title="Infantiles",TeenNick
+http://user.tvcluboficial.com/stream/free_DANNA/emN/882.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Uruguay",Tele
+http://user.tvcluboficial.com/stream/free_DANNA/emN/778.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/320.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telecinco.png" group-title="España",Telecinco HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/922.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teledeporte.png" group-title="Deportes",Teledeporte HD (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/330.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telefe.png" group-title="Argentina",Telefe
+http://user.tvcluboficial.com/stream/free_DANNA/emN/771.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teleformula.png" group-title="Entretenimiento",TeleFórmula
+http://user.tvcluboficial.com/stream/free_DANNA/emN/182.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telehitmusica.png" group-title="Musica",Telehit
+http://user.tvcluboficial.com/stream/free_DANNA/emN/91.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telehitmusica.png" group-title="HD",Telehit HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/649.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telemax.png" group-title="Entretenimiento",Telemax
+http://user.tvcluboficial.com/stream/free_DANNA/emN/963.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telemundo.png" group-title="Entretenimiento",Telemundo
+http://user.tvcluboficial.com/stream/free_DANNA/emN/92.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/telemundo.png" group-title="HD",Telemundo HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/660.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/676.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1556.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/thewalkingdead.png" group-title="24/7",The Walking Dead 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/800.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/thewalkingdead.png" group-title="24/7",The Walking Dead 24/7 Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1557.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tigosports.png" group-title="Deportes",Tigo Sports Guatemala
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1587.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tigosports.png" group-title="Deportes",TigoSports Bolivia
+http://user.tvcluboficial.com/stream/free_DANNA/emN/764.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tigosports.png" group-title="Deportes",TigoSports Paraguay
+http://user.tvcluboficial.com/stream/free_DANNA/emN/843.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tiin.png" group-title="Infantiles",Tiin
+http://user.tvcluboficial.com/stream/free_DANNA/emN/93.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tlc.png" group-title="Entretenimiento",TLC
+http://user.tvcluboficial.com/stream/free_DANNA/emN/87.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/94.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tlnovelas.png" group-title="HD",Tlnovelas HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/832.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teleritmo.png" group-title="Musica",TLR (Teleritmo)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/299.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/teleritmo.png" group-title="HD",TLR HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/942.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tnt.png" group-title="Peliculas",TNT
+http://user.tvcluboficial.com/stream/free_DANNA/emN/179.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tnt.png" group-title="Peliculas",TNT Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/752.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tnt.png" group-title="HD",TNT HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/500.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tnt.png" group-title="España",TNT HD (ES)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/982.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tntseries.png" group-title="Entretenimiento",TNT Series
+http://user.tvcluboficial.com/stream/free_DANNA/emN/90.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tntseries.png" group-title="Entretenimiento",TNT Series Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/757.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tntseries.png" group-title="HD",TNT Series HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/650.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tntsports.png" group-title="Deportes",TNT Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/509.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tntsports.png" group-title="Deportes",TNT Sports Chile
+http://user.tvcluboficial.com/stream/free_DANNA/emN/906.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/421.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tooncast.png" group-title="Infantiles",Tooncast
+http://user.tvcluboficial.com/stream/free_DANNA/emN/95.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/trece_colombia.png" group-title="Colombia",Trece
+http://user.tvcluboficial.com/stream/free_DANNA/emN/774.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/trollhunters.png" group-title="24/7",TrollHunters 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/662.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/trutv.png" group-title="Entretenimiento",TruTV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/96.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/trutv.png" group-title="HD",TruTv HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/501.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tumusicahd.png" group-title="Musica",Tu Musica HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/516.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tudn.png" group-title="Deportes",TUDN 
+http://user.tvcluboficial.com/stream/free_DANNA/emN/698.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
+http://user.tvcluboficial.com/stream/free_DANNA/emN/822.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tudn.png" group-title="HD",TUDN HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/801.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tudn.png" group-title="Deportes",TUDN Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/997.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tudn.png" group-title="Deportes",TUDN USA HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/86.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tvchile.png" group-title="Chile",TV Chile
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1534.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tvcdeportes.png" group-title="Deportes",TVC Deportes
+http://user.tvcluboficial.com/stream/free_DANNA/emN/837.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/televicentro.png" group-title="Ecuador",TVC Ecuador
+http://user.tvcluboficial.com/stream/free_DANNA/emN/776.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tve.png" group-title="España",TVE
+http://user.tvcluboficial.com/stream/free_DANNA/emN/195.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tve.png" group-title="España",TVE HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/930.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/675.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tycsports.png" group-title="Deportes",Tyc Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/274.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/tycsports.png" group-title="Deportes",Tyc Sports Op. 2
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1538.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/ufc.png" group-title="Deportes",UFC Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/97.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/unicable.png" group-title="Entretenimiento",Unicable
+http://user.tvcluboficial.com/stream/free_DANNA/emN/98.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/unicable.png" group-title="HD",Unicable HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/653.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/unimas.png" group-title="Entretenimiento",UniMas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/144.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal.png" group-title="Peliculas",Universal Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/137.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal_cinema.png" group-title="Entretenimiento",Universal Cinema HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/902.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal_comedy.png" group-title="Entretenimiento",Universal Comedy HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/903.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal_crime.png" group-title="Entretenimiento",Universal Crime HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/904.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal.png" group-title="HD",Universal HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/502.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal_premier.png" group-title="Entretenimiento",Universal Premiere HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/901.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/universal_reality.png" group-title="Entretenimiento",Universal Reality HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/905.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/univision.png" group-title="Entretenimiento",Univision
+http://user.tvcluboficial.com/stream/free_DANNA/emN/99.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/univisiondeportes.png" group-title="Deportes",Univisión Deportes
+http://user.tvcluboficial.com/stream/free_DANNA/emN/373.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Deportes",Univisión TDN
+http://user.tvcluboficial.com/stream/free_DANNA/emN/100.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Entretenimiento",Univision Tlnovelas
+http://user.tvcluboficial.com/stream/free_DANNA/emN/413.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Colombia",Uno
+http://user.tvcluboficial.com/stream/free_DANNA/emN/775.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/vamos.png" group-title="Deportes",Vamos HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/940.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/vh1.png" group-title="Musica",VH1
+http://user.tvcluboficial.com/stream/free_DANNA/emN/101.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/vh1.png" group-title="HD",VH1 HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/632.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/videorola.png" group-title="Musica",Video Rola
+http://user.tvcluboficial.com/stream/free_DANNA/emN/359.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Musica",Videos: 1Music
+http://user.tvcluboficial.com/stream/free_DANNA/emN/433.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Musica",Videos: Company Radio TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/435.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/play.png" group-title="Musica",Videos: Dream TV
+http://user.tvcluboficial.com/stream/free_DANNA/emN/439.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/vtv.png" group-title="Uruguay",VTV Uruaguay
+http://user.tvcluboficial.com/stream/free_DANNA/emN/708.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/wapa.png" group-title="Puerto Rico",Wapa PR
+http://user.tvcluboficial.com/stream/free_DANNA/emN/327.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/warnerchannel.png" group-title="Entretenimiento",Warner Channel
+http://user.tvcluboficial.com/stream/free_DANNA/emN/102.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
+http://user.tvcluboficial.com/stream/free_DANNA/emN/759.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/warnerchannel.png" group-title="HD",Warner Channel HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/503.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/winsports.png" group-title="Deportes",Win Sports
+http://user.tvcluboficial.com/stream/free_DANNA/emN/292.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/winsportsplus.png" group-title="Deportes",Win Sports +
+http://user.tvcluboficial.com/stream/free_DANNA/emN/881.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/winsportsplus.png" group-title="HD",Win Sports + HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/802.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/winsports.png" group-title="HD",Win Sports HD
+http://user.tvcluboficial.com/stream/free_DANNA/emN/754.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/wwe.png" group-title="Deportes",WWE Network
+http://user.tvcluboficial.com/stream/free_DANNA/emN/276.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/247.png" group-title="24/7",Yogui 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/1567.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+http://user.tvcluboficial.com/stream/free_DANNA/emN/664.m3u8
