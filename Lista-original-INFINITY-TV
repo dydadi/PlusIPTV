@@ -1,719 +1,1636 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv0rdM1X/CANAL_1.jpg" group-title="Entretenimiento",CANAL 1 |CO|
-http://172.93.102.112:8989/279385_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g25y0byN/CANAL_3_GT.png" group-title="Entretenimiento",CANAL 3 |GT|
-http://172.93.102.112:8989/279313_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q73shDj0/CANAL_4_GT.png" group-title="Entretenimiento",CANAL 4 Quiche |GT|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1866.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfgqXXdW/CANAL_7_GT.jpg" group-title="Entretenimiento",CANAL 7 |GT|
-http://172.93.102.112:8989/279314_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SqvMXpv/CANAL_11_GT.png" group-title="Entretenimiento",CANAL 11 |GT|
-http://172.93.102.112:8989/279312_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJR2k7bX/CANAL-13-GT.jpg" group-title="Entretenimiento",CANAL 13 |GT|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/395.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvXHjxSy/CANAL-13-CH.jpg" group-title="Entretenimiento",CANAL 13 |CHILE|
-http://104.243.40.13:8989/278971_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NFHvCLt/TN23.jpg" group-title="Entretenimiento",TN23 |GT|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/399.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C1KhSfD/A-PLUS.png" group-title="Entretenimiento",A Plus
-http://104.194.8.54:8989/278312_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf6ZTbC6/ANTENA-3.png" group-title="Entretenimiento",Antena 3
-http://user.tvcluboficial.com/live/m/m/298.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4nkwnkRD/A3S.png" group-title="Entretenimiento",A3 Series
-http://user.tvcluboficial.com/live/m/m/444.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5DXc4hV/AMERICA-TV.png" group-title="Entretenimiento",America TV |PE|
-http://199.127.63.143:8989/278889_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF221YzR/AMERICA-TV-AR.png" group-title="Entretenimiento",America TV |AR|
-http://104.238.205.28:8989/278751_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fnkVkzh/ATV-PERU.png" group-title="Entretenimiento",ATV |PE|
-http://199.127.63.143:8989/278905_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGD2hNgN/AZ-CORAZON.jpg" group-title="Entretenimiento",Az Corazon
-http://104.194.8.54:8989/278336_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCjdNrX/AZ-CLIC.png" group-title="Entretenimiento",Az Click
-http://172.93.102.112:8989/158613_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JTcKmrd/AZ-CINEMA.png" group-title="Entretenimiento",Az Cinema
-http://104.238.205.28:8989/159209_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvkmR1wZ/AZ-MUNDO.jpg" group-title="Entretenimiento",AZ Mundo
-http://104.243.40.13:8989/278356_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyhBRQN6/AZTECA-GUATE.png" group-title="Entretenimiento",Azteca Guate |GT|
-http://172.93.102.112:8989/279311_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E
-http://104.194.8.54:8989/158672_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPgFYTN/A-E.jpg" group-title="Entretenimiento",A&E (_HD_)
-http://104.243.38.5:8989/278389_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkPvTzN/AMC.png" group-title="Entretenimiento",AMC
-http://104.238.205.28:8989/278393_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RkPvTzN/AMC.png" group-title="Entretenimiento",AMC (_HD_)
-http://104.238.205.28:8989/278393_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xp7G5Bm/AXN.jpg" group-title="Entretenimiento",AXN
-http://104.238.205.28:8989/278385_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xp7G5Bm/AXN.jpg" group-title="Entretenimiento",AXN (_HD_)
-http://199.127.63.143:8989/278386_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zG5ZP4H2/ADN-40.jpg" group-title="Entretenimiento",ADN 40
-http://104.194.8.54:8989/278315_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMt0M7xh/ANIMAL-PLANET.png" group-title="Cultural",Animal Planet
-http://104.238.205.28:8989/278617_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMt0M7xh/ANIMAL-PLANET.png" group-title="Cultural",Animal Planet (_HD_)
-http://104.238.205.28:8989/278616_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgTJSMK0/ANTENA-7.png" group-title="General",ANTENA 7 |RD|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1178.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0LWW96S/AZTECA-1.png" group-title="Entretenimiento",Azteca Uno
-http://104.238.222.251:8989/278322_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLd8sT6c/AZTECA-7.jpg" group-title="Entretenimiento",Azteca 7
-http://104.243.38.5:8989/167825_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8khZncdD/BABY-TV.jpg" group-title="Infantil",Baby TV
-http://199.127.63.143:8989/278533_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NC9yfrW/BABY-FIRTS.png" group-title="Infantil",Baby First
-http://199.127.63.143:8989/278531_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Mpw8KX/BANDAMAX.jpg" group-title="Musica",Bandamax
-http://104.238.205.28:8989/278603_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNyNbFNc/CARTONITO.png" group-title="Infantil",Boomerang  (Cartoonito SD)
-http://104.238.205.28:8989/278527_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNyNbFNc/CARTONITO.png" group-title="Infantil",Boomerang  (Cartoonito HD)
-http://104.238.205.28:8989/278528_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjb2smz5/BITME.jpg" group-title="Infantil",Bitme MX
-http://user.tvcluboficial.com/live/m/m/946.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk8Cfv23/CANAL_5.jpg" group-title="Entretenimiento",Canal 5 MX
-http://104.238.222.251:8989/162991_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTRgQY1f/CARTOON_NETWORK.jpg" group-title="Infantil",Cartoon Network
-http://104.238.205.28:8989/278524_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTRgQY1f/CARTOON_NETWORK.jpg" group-title="Infantil",Cartoon Network (_HD_)
-http://104.238.205.28:8989/278525_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Rjv9FM/CARACOL.png" group-title="Entretenimiento",Caracol (_1_)
-http://172.93.102.112:8989/160492_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Rjv9FM/CARACOL.png" group-title="Entretenimiento",Caracol (_2_)
-http://172.93.102.112:8989/160495_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2Rjv9FM/CARACOL.png" group-title="Entretenimiento",Caracol (_3_)
-http://172.93.102.112:8989/160494_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2sCZ2tn/CHILEVISION.png" group-title="Entretenimiento",Chilevision |CHILE|
-http://104.243.40.13:8989/278974_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6BvVWz/CINECANAL.jpg" group-title="Entretenimiento",Cinecanal
-http://104.238.205.28:8989/278462_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD6BvVWz/CINECANAL.jpg" group-title="Entretenimiento",Cinecanal (_HD_)
-http://172.93.102.112:8989/278463_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",Cinemax
-http://104.243.38.5:8989/278467_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdrhZHwb/CINEMAX.png" group-title="Entretenimiento",Cinemax (_HD_)
-http://104.238.222.251:8989/278468_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdRWzpBT/CINE-LATINO.png" group-title="Entretenimiento",CineLatino
-http://104.238.205.28:8989/278460_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wYCCC9/CINEMA-DINAMITA.png" group-title="Entretenimiento",CineDinamita
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/493.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzcmrRWW/CITY-TV.jpg" group-title="Entretenimiento",City TV |CO|
-http://172.93.102.112:8989/279389_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yCdZVmT/CM-MUSIC.png" group-title="Musica",CM Music (Musica)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1144.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1X5vBWR/CNN-ESPANOL.jpg" group-title="Entretenimiento",CNN en Espanol
-http://104.194.8.54:8989/278311_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNGrVB1S/CNN-INTERNATIONAL.png" group-title="Entretenimiento",CNN Internacional
-http://104.194.8.54:8989/278335_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLZCM9x0/COMEDY-CENTRAL.png" group-title="Entretenimiento",Comedy Central
-http://104.238.222.251:8989/278410_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLZCM9x0/COMEDY-CENTRAL.png" group-title="Entretenimiento",Comedy Central (_HD_)
-http://104.238.222.251:8989/278409_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Fyz95jL/COLOR-VISION.png" group-title="Entretenimiento",Color vision |RD|
-http://104.243.38.5:8989/279344_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vB1ZHCzL/CRONICA.png" group-title="Entretenimiento",Cronica |AR|
-http://104.238.205.28:8989/278755_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52x9FXgt/DE-PELICULA-PLUS.png" group-title="Entretenimiento",De Pelicula
-http://104.238.205.28:8989/278458_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCG4pSVW/DE-PELICULA-PLUS-1.png" group-title="Entretenimiento",De Pelicula+
-http://104.238.205.28:8989/278457_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1fwVkhc/descarga_(46).jpg" group-title="Cultura",DHE MX
-http://user.tvcluboficial.com/live/m/m/844.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JhYPkPZ/DIGITAL_15.png" group-title="Entretenimiento",DIGITAL 15 |RD|
-http://104.243.38.5:8989/279345_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DycnF2h3/DISCOVERY-CHANNEL.png" group-title="Cultura",Discovery Channel
-http://104.238.205.28:8989/278618_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DycnF2h3/DISCOVERY-CHANNEL.png" group-title="Cultura",Discovery Channel (_HD_)
-http://172.93.102.119:8989/278619_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNx3nTwF/DYSCOVERY_CIVILIZATION.png" group-title="Cultura",Discovery Civilization
-http://user.tvcluboficial.com/live/m/m/23.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZV9ZjC6/DISCOVERY_FAMILY.jpg" group-title="Cultura",Discovery Familia
-http://199.127.63.143:8989/165457_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnY3LMth/DISCOVERY_H&H.jpg" group-title="Cultura",Discovery H&H
-http://104.243.38.5:8989/278411_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnY3LMth/DISCOVERY_H&H.jpg" group-title="Cultura",Discovery H&H (_HD_)
-http://104.238.222.251:8989/278412_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK6xV5N3/ID_A.png" group-title="Cultura",Discovery ID
-http://104.243.38.5:8989/278633_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK6xV5N3/ID_A.png" group-title="Cultura",Discovery ID (_HD_)
-http://104.243.38.5:8989/278634_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWSrpdJ/DISCOVERY_KIDS.png" group-title="Infantil",Discovery Kids
-http://104.194.8.54:8989/158665_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWSrpdJ/DISCOVERY_KIDS.png" group-title="Infantil",Discovery Kids (_HD_)
-http://104.238.205.28:8989/278535_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSTw806Y/DISCOVERY_SCIENCE.jpg" group-title="Cultura",Discovery Science
-http://user.tvcluboficial.com/live/m/m/26.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCHVZQ57/DISCOVERY_THEATER.png" group-title="Cultura",Discovery Theater
-http://172.93.102.119:8989/278622_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCHVZQ57/DISCOVERY_THEATER.png" group-title="Cultura",Discovery Theater (_HD_)
-http://172.93.102.119:8989/278623_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhg6b2vk/TLC.jpg" group-title="Cultura",Discovery TLC
-http://199.127.63.143:8989/278407_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhg6b2vk/TLC.jpg" group-title="Cultura",Discovery TLC (_HD_)
-http://104.238.222.251:8989/278413_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvDnVVTY/DYSCOVERY_TURBO.png" group-title="Cultura",Discovery Turbo
-http://104.238.205.28:8989/278396_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvDnVVTY/DYSCOVERY_TURBO.png" group-title="Cultura",Discovery Turbo (_HD_)
-http://104.243.38.5:8989/278414_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x82VDZFd/DISCOVERY_WORLD.png" group-title="Cultura",Discovery World
-http://172.93.102.119:8989/278624_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x82VDZFd/DISCOVERY_WORLD.png" group-title="Cultura",Discovery World (_HD_)
-http://104.243.38.5:8989/278625_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJQstMBQ/DISNEY_CHANNEL.jpg" group-title="Infantil",Disney Channel
-http://104.238.205.28:8989/278538_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJQstMBQ/DISNEY_CHANNEL.jpg" group-title="Infantil",Disney Chanel (_HD_)
-http://104.238.205.28:8989/278539_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwC4pV8/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior
-http://104.238.205.28:8989/278541_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWwC4pV8/DISNEY_JUNIOR.png" group-title="Infantil",Disney Junior (_HD_)
-http://104.238.205.28:8989/278542_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J95VnjK/DISTRITO_COMEDIA.jpg" group-title="Entretenimiento",Distrito Comedia (_1_)
-http://104.243.38.5:8989/278415_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J95VnjK/DISTRITO_COMEDIA.jpg" group-title="Entretenimiento",Distrito Comedia (_HD_)
-http://104.243.38.5:8989/278416_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfbsLNsB/DW.jpg" group-title="Entretenimiento",DW Español
-http://104.238.222.251:8989/278308_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2XmVS78/ECUAVISA.jpg" group-title="Entretenimiento",Ecuavisa |EC|
-http://104.243.38.5:8989/279322_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ENLACE (Religion)
-http://172.93.102.119:8989/279003_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",ENLACE JUVENIL (Religion)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/2409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",El Gourmet
-http://104.194.8.54:8989/158679_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",El Gourmet (_HD_)
-http://104.238.222.251:8989/278421_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",EL TRECE |AR|
-http://104.243.40.13:8989/278760_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",El Nueve |AR|
-http://104.238.205.28:8989/278759_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Entertainment
-http://104.238.222.251:8989/278418_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Estrella TV |US|
-http://104.243.40.13:8989/167120_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Extrema TV
-http://172.93.102.112:8989/279373_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Film and Arts
-http://104.238.205.28:8989/278424_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Foro TV |MX|
-http://199.127.63.143:8989/167433_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Food Network
-http://199.127.63.143:8989/166446_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Musica",FoxMix (Musica)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX
-http://104.238.205.28:8989/278426_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",FX (_HD_)
-http://104.238.205.28:8989/278427_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Galavision
-http://104.238.205.28:8989/278705_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",GAMA TV |EC|
-http://user.tvcluboficial.com/live/m/m/891.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Glitz
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Golden
-http://104.243.38.5:8989/278479_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Golden Edge
-http://104.243.38.5:8989/278480_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Golden Plus
-http://104.243.38.5:8989/278484_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Golden Premier
-http://104.243.40.13:8989/316452_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO
-http://104.238.205.28:8989/165849_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO (_HD_)
-http://104.238.205.28:8989/165467_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO 2
-http://104.238.205.28:8989/166447_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO 2 (_HD_)
-http://104.238.205.28:8989/166474_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Family
-http://104.238.205.28:8989/165466_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Family (_HD_)
-http://104.238.205.28:8989/166450_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Plus
-http://199.127.63.143:8989/165465_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Plus (_HD_)
-http://104.238.222.251:8989/278490_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Signature
-http://104.238.222.251:8989/278505_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Signature (_HD_)
-http://104.238.222.251:8989/278506_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Xtreme
-http://104.238.222.251:8989/278507_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO Xtreme (_HD_)
-http://104.238.222.251:8989/278508_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO POP
-http://104.238.222.251:8989/278502_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO POP (_HD_)
-http://104.238.222.251:8989/278503_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO MUNDI
-http://104.238.222.251:8989/278501_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HGTV
-http://104.243.38.5:8989/278430_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",History Channel
-http://104.243.38.5:8989/278628_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",History Channel (_HD_)
-http://104.243.38.5:8989/278631_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HISTORY 2
-http://104.243.38.5:8989/278629_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HTV
-http://199.127.63.143:8989/278402_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Hola TV
-http://104.238.205.28:8989/278398_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Hola TV (_HD_)
-http://104.194.8.54:8989/158688_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Imagen TV
-http://104.194.8.54:8989/158628_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Las Estrellas (_MX_)
-http://104.194.8.54:8989/278346_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Las Estrellas (_SUR_)
-http://104.194.8.54:8989/278345_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Las Estrellas (_HD_)
-http://104.194.8.54:8989/278348_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",La Red |CHILE|
-http://104.243.38.5:8989/278983_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Latina Peru
-http://199.127.63.143:8989/278896_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Lifetime (_1_)
-http://199.127.63.143:8989/158690_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Lifetime (_2_)
-http://104.243.38.5:8989/278433_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Locomotion
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1138.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LOVE NATURE
-http://104.238.222.251:8989/296574_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LOVE NATURE (_HD_)
-http://104.238.222.251:8989/286050_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Mas Chic
-http://104.243.38.5:8989/278435_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Mas Chic (_HD_)
-http://104.243.40.13:8989/305670_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MEGA |CHILE|
-http://104.243.38.5:8989/278985_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MEGA |ES|
-http://172.93.102.112:8989/278846_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV
-http://104.238.205.28:8989/278601_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV (_HD_)
-http://104.243.40.13:8989/308014_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV Hits
-http://104.238.205.28:8989/278602_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV Live
-http://172.93.102.119:8989/278609_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Multimedios
-http://104.238.222.251:8989/278355_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Mundo+ |CO|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Music m2o (Musica)
-http://104.243.40.13:8989/305686_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MUSIC TOP (Musica)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nat Geo
-http://104.243.38.5:8989/278636_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nat Geo (_HD_)
-http://104.238.205.28:8989/158863_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NatGeo Mundo
-http://172.93.102.119:8989/279518_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nature Time
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nickelodeon
-http://104.194.8.54:8989/158666_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nickelodeon (_HD_)
-http://104.238.205.28:8989/278544_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nick2 (TeenNick SD)
-http://104.194.8.54:8989/158669_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nick2 (TeenNick HD)
-http://104.238.205.28:8989/278550_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nick JR
-http://104.238.205.28:8989/278545_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nick JR (_HD_)
-http://104.238.205.28:8989/278546_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nick Music
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Nu9eve |MX|
-http://104.238.205.28:8989/278360_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Oromar |EC|
-http://104.243.38.5:8989/279324_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OxygenoTV (Musica)
-http://199.127.63.143:8989/279749_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Panamericana |PE|
-http://199.127.63.143:8989/278901_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Paramount
-http://104.238.222.251:8989/278512_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Paramount (_HD_)
-http://104.238.222.251:8989/278513_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",RCN
-http://172.93.102.112:8989/279393_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",RCN Novelas
-http://104.243.40.13:8989/316472_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",RetroPlus (Musica)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",RetroRomanticas (Musica)
-http://user.tvcluboficial.com/live/m/m/692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",RTS |EC|
-http://104.243.38.5:8989/279325_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Pasiones
-http://199.127.63.143:8989/278403_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Pasiones (_HD_)
-http://104.243.38.5:8989/278436_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SeÃ±al Colombia |CO|
-http://104.243.40.13:8989/316442_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Sony
-http://104.238.222.251:8989/159201_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Sony (_HD_)
-http://199.127.63.143:8989/278405_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Space
-http://104.238.222.251:8989/278515_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Space (_HD_)
-http://104.238.222.251:8989/278516_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Star Channel
-http://104.243.38.5:8989/278438_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Star Channel (_HD_)
-http://104.243.38.5:8989/278439_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Studio Universal
-http://104.243.38.5:8989/278517_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Studio Universal (_2_)
-http://104.243.38.5:8989/278518_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SYFY (USA NETWORK)
-http://172.93.102.119:8989/279539_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TBS
-http://199.127.63.143:8989/279774_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TC |EC|
-http://104.243.38.5:8989/279326_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TCM
-http://199.127.63.143:8989/278406_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telecaribe |CO|
-http://172.93.102.112:8989/279397_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Teleantillas |RD|
-http://104.243.38.5:8989/279349_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telemicro |RD|
-http://104.243.38.5:8989/279359_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telehit
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telehit Musica
-http://172.93.102.119:8989/278613_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telehit Plus HD
-http://172.93.102.119:8989/278612_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telemetro |PA|
-http://172.93.102.112:8989/279307_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Teleformula |MX|
-http://104.194.8.54:8989/158641_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEMUNDO (_1_)
-http://104.238.205.28:8989/278656_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEMUNDO (_2_)
-http://104.238.205.28:8989/278659_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEMUNDO INTER
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/782.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TeleRitmo (Musica)
-http://104.238.205.28:8989/278600_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEANTILLAS |RD|
-http://104.243.38.5:8989/279349_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELECENTRO |RD|
-http://104.243.38.5:8989/279351_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Telesistema |RD|
-http://104.243.38.5:8989/279356_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Televicentro |EC|
-http://104.243.38.5:8989/279328_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Television Publica |AR|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tl Novelas MX
-http://104.243.38.5:8989/278367_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tl Novelas SUR
-http://104.238.205.28:8989/278368_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tl Novelas |US|
-http://104.238.205.28:8989/278369_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEANTIOQUIA |CO|
-http://104.238.222.251:8989/168471_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEMEDELLIN |CO|
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/2396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TELEFE |AR|
-http://104.238.205.28:8989/278773_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Teleamazonas |EC|
-http://104.243.38.5:8989/279321_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Teletica |CR|
-http://172.93.102.112:8989/279379_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT
-http://104.238.222.251:8989/278519_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT (_HD_)
-http://104.238.222.251:8989/278520_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT SERIES
-http://104.243.38.5:8989/278442_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT SERIES (_HD_)
-http://104.243.38.5:8989/278443_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tooncast (_1_)
-http://104.238.205.28:8989/278551_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tooncast (_2_)
-http://104.238.205.28:8989/278552_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Top Latino (Musica)
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/1139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tru TV LAT
-http://199.127.63.143:8989/279776_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TV Peru
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/814.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tv MAS |MX|
-http://104.194.8.54:8989/158637_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TVN |PA|
-http://172.93.102.112:8989/279310_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Unicable
-http://104.243.38.5:8989/278445_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Unimas
-http://104.238.205.28:8989/278730_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Channel
-http://104.238.222.251:8989/278448_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Channel (_HD_)
-http://104.238.222.251:8989/278449_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Crime
-http://104.238.222.251:8989/278474_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Crime (_HD_)
-http://104.238.222.251:8989/278475_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Comedy
-http://104.238.222.251:8989/158698_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Comedy (_HD_)
-http://104.238.222.251:8989/278473_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Cinema
-http://104.238.222.251:8989/158697_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Cinema (_HD_)
-http://104.238.222.251:8989/278472_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Premier
-http://104.238.222.251:8989/278476_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Premier (_HD_)
-http://104.238.222.251:8989/278477_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Reality
-http://172.93.102.112:8989/160109_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universal Reality (_HD_)
-http://104.238.222.251:8989/278478_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Universo
-http://172.93.102.112:8989/161195_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Univision In
-http://104.243.40.13:8989/167118_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",VH1
-http://199.127.63.143:8989/279755_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Warner
-http://104.238.205.28:8989/278453_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Warner (_HD_)
-http://104.238.205.28:8989/278454_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Wapa |PR|
-http://172.93.102.112:8989/180682_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Willax |PE|
-http://199.127.63.143:8989/278904_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Wow TV (ElSalvador)
-http://199.127.63.143:8989/165204_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Afizzionados
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Bein Sports N
-http://199.127.63.143:8989/279420_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CDF Premium (TNT SPORTS 2 HD)
-http://199.127.63.143:8989/278916_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Claro Sports SUR
-http://199.127.63.143:8989/278554_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Claro Sports |GT|
-http://199.127.63.143:8989/278554_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Canal Del Futbol |EC|
-http://104.243.38.5:8989/168233_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Directv Sports 1
-http://104.243.40.13:8989/316475_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Directv Sports 2
-http://104.243.38.5:8989/279317_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Directv Sports Plus
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/879.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn Plus
-http://user.tvcluboficial.com/live/m/m/37.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 1 |SUR|
-http://104.243.40.13:8989/316437_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 2 |SUR|
-http://104.243.40.13:8989/316436_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 3 |SUR|
-http://104.243.38.5:8989/278979_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 4 |SUR|
-http://104.243.40.13:8989/316468_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 1 |MX|
-http://172.93.102.119:8989/278578_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 2 |MX|
-http://199.127.63.143:8989/158827_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 3 |MX|
-http://199.127.63.143:8989/278579_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ESPN PREMIUM |AR|
-http://user.tvcluboficial.com/live/m/m/952.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 1 |AR|
-http://172.93.102.112:8989/158891_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 2 |AR|
-http://104.238.205.28:8989/278762_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Espn 3 |AR|
-http://104.238.205.28:8989/278763_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports Premium SUR
-http://172.93.102.119:8989/278598_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports Premium MX
-http://172.93.102.112:8989/158837_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Futv CostaRica
-http://172.93.102.112:8989/279374_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 1 Sur
-http://104.243.40.13:8989/316448_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 2 Sur
-http://104.243.40.13:8989/316449_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 3 Sur
-http://104.238.205.28:8989/278768_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 1 MX
-http://199.127.63.143:8989/158833_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 2 MX
-http://199.127.63.143:8989/158834_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Fox Sports 3 MX
-http://199.127.63.143:8989/158835_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Gol Peru |PE|
-http://199.127.63.143:8989/278895_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Movistar Deportes |PE|
-http://user.tvcluboficial.com/live/m/m/366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NBA TV |US|
-http://104.238.222.251:8989/310286_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NFL Network |US|
-http://199.127.63.143:8989/158841_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tennis Channel |US|
-http://199.127.63.143:8989/279452_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tigo Sports |PY|
-http://172.93.102.112:8989/279285_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Tigo Sports |GT|
-http://172.93.102.112:8989/279308_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT SPORTS HD
-http://104.243.38.5:8989/278989_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TUDN (_1_)
-http://199.127.63.143:8989/278559_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TUDN (_2_)
-http://199.127.63.143:8989/278561_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TVC DEPORTE
-http://104.243.40.13:8989/158850_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TYC SPORTS HD
-http://104.238.205.28:8989/278778_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",VTV HD
-http://172.93.102.112:8989/278804_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",VTV Plus HD
-http://172.93.102.112:8989/278802_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Win Sports
-http://104.243.40.13:8989/316435_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Win Sports Plus
-http://104.238.222.251:8989/280080_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 ALF
-http://172.93.102.119:8989/279013_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Animaniacs
-http://user.tvcluboficial.com/live/m/m/677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Bob Esponja
-http://172.93.102.119:8989/279017_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Caballeros del Zodiaco
-http://user.tvcluboficial.com/live/m/m/427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Cantinflas
-http://user.tvcluboficial.com/live/m/m/428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Caso Cerrado
-https://nffthex0kzt.xyz/rk/INFINITYLIFE2024/TVCINEMA20242978DI/954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Chapulin Colorado
-http://172.93.102.119:8989/279027_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Chavo Del Ocho 1
-http://199.127.63.143:8989/293818_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Chespirito 1
-http://user.tvcluboficial.com/live/m/m/417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE ACCION
-http://user.tvcluboficial.com/live/m/m/990.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE DC UNIVERSO
-http://104.238.222.251:8989/168727_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE FANTASIA
-http://user.tvcluboficial.com/live/m/m/709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE FANTASIA SAGAS
-http://user.tvcluboficial.com/live/m/m/712.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE INFANTIL
-http://user.tvcluboficial.com/live/m/m/702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE INFANTIL SAGAS
-http://user.tvcluboficial.com/live/m/m/703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE MARVEL 1
-http://user.tvcluboficial.com/live/m/m/697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE MARVEL 2
-http://user.tvcluboficial.com/live/m/m/701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE ROMANCE HD
-http://user.tvcluboficial.com/live/m/m/705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE ROMANCE SD
-http://user.tvcluboficial.com/live/m/m/689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE TERROR
-http://user.tvcluboficial.com/live/m/m/704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 CINE ZOMBIES
-http://user.tvcluboficial.com/live/m/m/917.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Coraje
-http://user.tvcluboficial.com/live/m/m/519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 DINOSAURIOS 1991
-http://172.93.102.119:8989/279019_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Doraemon
-http://user.tvcluboficial.com/live/m/m/521.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Dragon Ball 1984
-http://172.93.102.112:8989/158332_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Dragon Ball GT 1996
-http://104.238.222.251:8989/299647_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Dragon Ball Super
-http://user.tvcluboficial.com/live/m/m/424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Dragon Ball Z 1989
-http://user.tvcluboficial.com/live/m/m/329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 El Gallo Claudio
-http://user.tvcluboficial.com/live/m/m/845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 El Pajaro Loco
-http://172.93.102.112:8989/181398_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Futurama 1999
-http://172.93.102.119:8989/279008_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Garfield
-http://172.93.102.119:8989/279034_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Hey Arnold
-http://user.tvcluboficial.com/live/m/m/522.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Jonny Bravo
-http://104.238.205.28:8989/168758_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 La Pantera Rosa
-http://user.tvcluboficial.com/live/m/m/671.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Looney Tunes
-http://172.93.102.112:8989/181395_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Los Picapiedra
-http://172.93.102.119:8989/279039_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS
-http://104.238.222.251:8989/168740_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS 1-5
-http://172.93.102.119:8989/279041_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS 12-17
-http://172.93.102.119:8989/279041_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS 18-21
-http://172.93.102.119:8989/279042_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS 27-30
-http://172.93.102.119:8989/279044_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 LOS SIMPSONS 6-11
-http://104.238.222.251:8989/293699_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Mazinger Z
-http://104.238.205.28:8989/168765_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Mr. Bean
-http://user.tvcluboficial.com/live/m/m/431.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Naruto
-http://user.tvcluboficial.com/live/m/m/523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 One Punch Man
-http://user.tvcluboficial.com/live/m/m/661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Padre de Familia
-http://user.tvcluboficial.com/live/m/m/416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Pinky y Cerebro 1995
-http://user.tvcluboficial.com/live/m/m/721.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Pokemon
-http://104.238.205.28:8989/168751_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Ranma 1/2
-http://user.tvcluboficial.com/live/m/m/419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Scooby Doo
-http://user.tvcluboficial.com/live/m/m/422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 Smallville
-http://user.tvcluboficial.com/live/m/m/673.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",247 The Big Bang Theory
-http://user.tvcluboficial.com/live/m/m/676.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNxWrndL/TOM_Y_JERRY.jpg" group-title="24/7",247 Tom y Jerry
-http://172.93.102.119:8989/279051_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpGxcjQB/CHAVO.jpg" group-title="24/7",El Chavo
-http://199.127.63.143:8989/293818_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mps6tYSt/BOB-ESPONJA.jpg" group-title="24/7",BOB ESPONJA
-http://172.93.102.119:8989/279018_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",LA FAMILIA PELUCHE
-http://104.238.222.251:8989/166689_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Juego de tronos
-http://104.238.222.251:8989/168730_.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Breaking Bad
-http://user.tvcluboficial.com/live/m/m/846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Super Campeones
-http://user.tvcluboficial.com/live/m/m/432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento ",TNT Novelas 
-http://199.127.63.143:8989/278408_.m3u8
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/telefe.png",Telefe | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F874
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/lossimpsons.png",Los Simpson 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F635
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/elchavodel8.png",El chavo del 8 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1173
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine 2025
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1159
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/mx_lasestrellas.png",Canal de las Estrellas HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F118
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine 2024
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1099
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/el13argentina.png",El Trece (13) Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F362
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/distritocomedia.png",Distrito Comedia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F293
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/ar_tvp.png",TV Publica | Arg
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1171
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/247.png",La Mansion Vip
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1174
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/pe_liga1max.png",Liga 1 Max | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1070
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/space.png",Space HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F826
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/space.png",Space
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F823
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/ar_america.png",America | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1068
+
+#EXTINF:-1 group-title="Mas vistos" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Marvel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F177
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/telefe.png",Telefe HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1172
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/hbo.png",HBO HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F527
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tycsports.png",Tyc Sports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F974
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Marvel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F176
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/a24.png",A24
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1163
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/dragonballz.png",Dragon Ball Z 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F307
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elchavodel8.png",El Chavo del 8 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F344
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/c5n.png",C5N
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1162
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/universal.png",Universal HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F998
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/winsportsplus.png",Win Sports +
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1041
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tycsports.png",TyC Sports HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1143
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hboxtreme.png",HBO Xtreme
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F543
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/tnt.png",TNT
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F921
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/warnerchannel.png",Warner Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1034
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/malcolm.png",Malcolm HD 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F641
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 1 | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1111
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 1 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F401
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/americaperu.png",America TV | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F35
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/dragonballsuper.png",Dragon Ball Super 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F305
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/gameofthrones.png",Game of Thrones 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F484
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/tnt.png",TNT HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F926
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/hboplus.png",HBO Plus HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F534
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Friends 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F470
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/bobesponja.png",Bob Esponja 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F96
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/caracol.png",Caracol | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F126
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hbo.png",HBO
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F512
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 1 | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1107
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/discoveryhh.png",Discovery H&H HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F258
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tntseries.png",TNT Series
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F929
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hbofamily.png",HBO Family
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F525
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/history.png",History Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F558
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espnpremium.png",ESPN Premium HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F408
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/cinemax.png",Cinemax HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F196
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoverychannel.png",Discovery Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F247
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/universal.png",Universal Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F984
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/goldenedge.png",Golden Edge
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F495
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/golden.png",Golden
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F494
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoveryhh.png",Discovery H&H
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F254
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/cartoonnetwork.png",Cartoon Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F128
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/axn.png",AXN
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F54
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hbo2.png",HBO 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F518
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/telefe.png",Telefe | USA
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1166
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/amc.png",AMC HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F33
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/telemundo.png",Telemundo
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F888
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/tomyjerry.png",Tom y Jerry 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F940
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/elnueveargentina.png",El Nueve (9) | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F353
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/mlb.png",MLB Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F658
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tntsports.png",TNT Sports | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F934
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/rcn.png",RCN HD | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1146
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/investigationdiscovery.png",Investigation Discovery
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F579
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Los Expedientes Secretos X 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F623
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tlnovelas.png",Tlnovelas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F912
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hbopop.png",HBO Pop
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F538
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/naruto.png",Naruto 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F702
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png",Discovery Turbo
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F274
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 1 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F368
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hboxtreme.png",HBO Xtreme HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F545
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/elgourmet.png",El Gourmet
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F349
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/history.png",History Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F560
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/axn.png",AXN HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F58
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png",Discovery Turbo HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F275
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/winsports.png",Win Sports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1039
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/natgeowild.png",Nat Geo Wild
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F709
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/azteca1.png",Azteca Uno HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F78
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/tntseries.png",TNT Series HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F933
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/looneytunes.png",Looney Tunes 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F618
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/latinatv.png",Latina | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F765
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/dragonball.png",Dragon Ball 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F301
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/chapulincolorado.png",Chapulin Colorado 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F152
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/alf.png",Alf 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F28
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/azteca1.png",Azteca Uno
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F76
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/golden.png",Golden HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F497
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/skysports.png",Sky Sports LaLiga
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1079
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/tlnovelas.png",Tlnovelas HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F915
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn3.png",ESPN 3 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1110
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1165
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/caballeroszodiaco.png",Caballeros del Zodiaco 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F100
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/discoverychannel.png",Discovery Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F251
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/eltrecechile.png",El Trece (13) Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F360
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/mega.png",Mega | Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F651
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/cinecanal.png",Cinecanal
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F185
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/pasiones.png",Pasiones HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F757
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/fx.png",FX HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F477
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tlc.png",TLC
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F911
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/heyarnold.png",Hey Arnold 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F551
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tntsports.png",TNT Sports  HD | Argentina
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1128
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/ae.png",A&E HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F8
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hbofamily.png",HBO Family HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F526
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/malcolm.png",Malcolm 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F640
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png",Padre de Familia 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F747
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxdeportes.png",Fox Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1114
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/ae.png",A&E
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F5
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/univision.png",Univision
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1009
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/tvglobo.png",Globo | Brasil
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1103
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/universal_premier.png",Universal Premiere HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1003
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/pokemon.png",Pokemon 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F773
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/history.png",Historia (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F554
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/studiouniversal.png",Studio Universal
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F845
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/twoandhalfmen.png",Two And a Half Men 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F973
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/dragonballgt.png",Dragon Ball GT 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F303
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ch_chilevision.png",Chilevision (CHV) | Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F155
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/hboplus.png",HBO Plus
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F531
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lapanterarosa.png",La Pantera Rosa 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F597
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoverytheater.png",Discovery Theater HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F271
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/investigationdiscovery.png",Investigation Discovery HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F581
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/telemundo.png",Telemundo HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F889
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/coraje.png",Coraje el Perro Cobarde 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F223
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn2.png",ESPN 2 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F372
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/nba.png",NBA
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F710
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tudn.png",TUDN | Usa
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F956
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/los3chiflados.png",Los 3 Chiflados 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F619
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/smallville.png",Smallville 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F812
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN HD | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1161
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/thebigbangtheory.png",The Big Bang Theory 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F899
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/cinemax.png",Cinemax
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F190
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn2.png",ESPN 2 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F378
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvsports.png",DSports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F312
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/natgeo.png",Nat Geo
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F703
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/supercampeones.png",Super Campeones 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F850
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/nickjr.png",Nick JR
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F729
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F400
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tntsports.png",TNT Sports | Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F938
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/h2.png",H2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F509
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/onepunchman.png",One Punch Man 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F744
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/telemundo.png",Telemundo Internacional
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1108
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elgalloclaudio.png",El Gallo Claudio 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F347
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/star.png",Star Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F832
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/babytv.png",Baby TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F79
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tudn.png",TUDN HD | Usa
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F957
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/retromusic.png",Retro Music
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F791
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/animalplanet.png",Animal Planet
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F41
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/hbo2.png",HBO 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F520
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/cartoonito.png",Cartoonito
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F134
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ecuavisa.png",Ecuavisa | Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F338
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/sony.png",Sony
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F815
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/rcn.png",RCN | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F785
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/e.png",E!
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F333
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/europa.png",Europa Europa
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F413
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.tvcluboficial.com/adn40.png",ADN 40
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F20
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/scoobydoo.png",Scooby Doo 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F804
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lospinguinosdemadagascar.png",Los Pinguinos de Madagascar 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F626
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/a3series.png",A3Series
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F17
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/tooncast.png",Tooncast
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F941
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/mx_lasestrellas.png",Canal de las Estrellas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F114
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/sony.png",Sony HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F818
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvplus.png",DSports +
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F314
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/nick.png",Nick
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F724
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/paramount.png",Paramount HD (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F754
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lospicapiedra.png",Los Picapiedra 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F625
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/espn2.png",ESPN 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F375
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 5 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1104
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elprincipedelrap.png",El Principe del Rap 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F357
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/warnerchannel.png",Warner Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1032
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/canal5.png",Canal 5 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F108
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Elementary 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F363
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.tvcluboficial.com/hbomundi.png",HBO Mundi
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1101
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 1 | Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1132
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espnplus.png",ESPN Plus
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F404
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/hboplus.png",HBO Plus Oeste HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F536
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/e.png",E! HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F336
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/ranma.png",Ranma 1/2 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F782
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/chespirito.jpg",Chespirito 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F153
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F441
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/disneyjr.png",Disney Junior
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F284
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/winsports.png",Win Sports HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1044
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/multipremier.png",MultiPremier
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F696
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/teleamazonas.png",TeleAmazonas | Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F867
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/atv.png", ATV: Novelas Turcas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1120
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/syfy.png",SyFy
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F853
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/azteca7.png",Azteca 7 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F74
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/pe_atv.png",ATV | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1063
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/syfy.png",SyFy HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F857
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/depelicula.png",De Pelicula
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F234
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.tvcluboficial.com/forotv.png",Foro TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F429
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/winsportsplus.png",Win Sports + HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1042
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/dinosaurios.png",Dinosaurios 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F244
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",La Casa de los Dibujos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F590
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/fx.png",FX
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F474
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/starz_encoreaction.png",Starz Encore Action
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F841
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Las Chicas Super Poderosas 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F608
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvsports.png",DSports HD op. 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1144
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/yugioh.png",Yu-Gi-Oh! 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1052
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/foodnetwork.png",Food Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F424
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/estrellatv.png",Estrella TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F409
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 6 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1105
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/caracol.png",Caracol Internacional
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F127
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/moviemax.png",Movie Max
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F660
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/cr_teletica.png",Teletica (Canal 7) | Costa Rica
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1073
+
+#EXTINF:-1 group-title="Religion" tvg-logo="http://i.tvcluboficial.com/mariavision.png",Maria Vision
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1097
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/universal_crime.png",Universal Crime HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F996
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvsports2.png",DSports 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F315
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/azcinema.png",Az Cinema
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F63
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn3.png",ESPN 3 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1127
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Accion HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F158
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/axn.png",AXN HD (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F59
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/dw.png",DW
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1091
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvsports.png",DSports HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F324
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Los Chicos del Barrio 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F622
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/canal5.png",Canal 5
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F106
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports.png",Fox Sports 1 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F456
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/galatv.png",Gala TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F481
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/play.png",Tele
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F866
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Accion 
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F157
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/telehitmusica.png",Telehit
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F878
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/star.png",Star Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F835
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/amc.png",AMC
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F29
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/pinkyycerebro.png",Pinky y Cerebro 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F771
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/comedycentral.png",Comedy Central HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F220
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/tvchile.png",TV Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F958
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/tcm.png",TCM
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F862
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tudn.png",TUDN 
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F952
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/latinatv.png",Latina | Uruguay
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F609
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsportssur.png",Fox Sports 1 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F435
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/nbcuniverso.png",NBC Universo
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F714
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/tnt.png",TNT HD (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F927
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/sakura.png",Sakura Card Captor 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F800
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/depelicula.png",De Pelicula HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F237
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/bandamax.png",Bandamax
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F83
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Las Aventuras de Tom Sawyer 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F607
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ligadecampeones.png",Liga de Campeones
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F616
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN 7 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1106
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/animaniacs.png",Animaniacs 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F43
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/movistar_deportes2.png",Movistar Deportes 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F664
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/antena3.png",Antena 3
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F45
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/doraemon.png",Doraemon 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F297
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/mega.png",Mega
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F652
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/rcnnovelas.png",RCN Novelas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F788
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/mrbean.png",Mr. Bean 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F670
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ni_canal2.png",Canal 2 | Nicaragua
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1075
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/directvsports2.png",DSports 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F317
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/imagentv.png",Imagen Television
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F576
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/beinsportsn.png",BeinSports Ñ
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F90
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ni_canal10.png",Canal 10 | Nicaragua
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1076
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/johnnybravo.png",Johnny Bravo 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F584
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/universal_cinema.png",Universal Cinema HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F988
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/dpeliculaplus.png",De Pelicula Plus HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F239
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/amc.png",AMC (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F32
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/telecinco.png",Telecinco HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F871
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoverysci.png",Discovery SCI
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F267
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/cinelatino.png",Cine Latino
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F173
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vix.png",Vix Deportes 7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1138
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/fs2.png",FS2 USA HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F472
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Terror
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F180
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Rugrats Crecidos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F798
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports.png",Fox Sports Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F465
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/clarosports.png",Claro Sports 3 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1056
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/natgeo.png",Nat Geo HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F706
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/canaldelfutbol.png",El Canal del Futbol (ECDF)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1133
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/star.png",Star Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F834
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/a3cine.png",A3Cine
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F14
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/hchhonduras.png",HCH
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F547
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/espnplus.png",ESPN Plus HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F405
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F463
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/nick.png",Nick HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F728
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png",Movistar LaLiga
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1100
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Comedia 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F163
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/fs1.png",FS1 USA HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F471
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/espn3.png",ESPN 3 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F386
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/syfy.png",SyFy (ES) HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F856
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Rugrats 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F797
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/wapa.png",Wapa PR
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1030
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/clarosports.png",Claro Sports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F201
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Bayblade 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F85
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/disneychannel.png",Disney Channel
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F280
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/canaldelfutbol.png",El Canal Del Futbol
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F342
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/trollhunters.png",TrollHunters 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F945
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/rickymorty.png",Rick y Morty
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1168
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/sa_canal2.png",Canal 2 | El Salvador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1078
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/espn4.png",ESPN 4 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1069
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/unimas.png",UniMas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F982
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/guatevision.png",Guatevision
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1089
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/multimedios.png",Multimedios (Monterrey)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F691
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports3sur.png",Fox Sports 3 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F468
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/movistar_deportes.png",Movistar Deportes | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F666
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/trutv.png",TruTV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F949
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/cinecanal.png",Cinecanal HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F188
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/mega.png",Mega ES HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F653
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/f1.png",Formula 1 TV (F1) HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F427
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/azteca7.png",Azteca 7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F72
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/cantinflas.png",Cantinflas 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F123
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ec_rts.png",RTS | Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1090
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/golperu.png",Gol TV Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1060
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tc.png",TC | Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F861
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/samuraix.png",Samurai X 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F802
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/movistar_comedia.png",Movistar Comedia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F663
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/discoverykids.png",Discovery Kids HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F266
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Infantil Sagas HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F172
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/patoaventuras.png",Patoaventuras 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F758
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/filmarts.png",Film & Arts HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F419
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/multimedios.png",Multimedios HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F693
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/tumusicahd.png",Tu Musica HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F951
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/vtv.png",VTV | Uruaguay
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1028
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/azcorazon.png",AZ Corazon
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F66
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Ed, Edd y Eddy 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F339
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN (Ahorro de datos)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1113
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/la1.png",La 1 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F588
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/nbcgolf.png",NBC Golf
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F712
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Infantil
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F169
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/aljazeera.png",Al Jazeera
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F27
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Accion Sagas HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F160
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/bitme.png",BitMe
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F92
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/teennick.png",TeenNick
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F865
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/aymsports.png",AyM Sports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F62
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/lasexta.png",La Sexta HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F603
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/pe_canaln.png",Canal N | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1065
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/dazn.png",DAZN HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1148
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsports3.png",Fox Sports 3 | HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F446
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/starz_cinema.png",Starz Cinema
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F839
+
+#EXTINF:-1 group-title="24/7" tvg-logo="",Garfield 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F486
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/clarosports.png",Claro Sports 4 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1057
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/dazn.png",DAZN 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1126
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/nick2.png",Nick 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F726
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/disneyjr.png",Disney Junior HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F287
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports2sur.png",Fox Sports 2 | Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F436
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/wwe.png",WWE Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1047
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/musictop.png",Music Top
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F699
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/losaniosmaravillosos.png",Los Años Maravillosos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F621
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Zombis
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F183
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/gt_televisiete.png",Televisiete (Canal 7) | Guatemala
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1067
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lospitufos.png",Los Pitufos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F627
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Yogui 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1051
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/bandamax.png",Bandamax HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F84
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Romance HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F179
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsports.png",Fox Sports 1 | HD Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F452
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/universal_reality.png",Universal Reality HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1006
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",El Pato Darkwing 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F356
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/unicable.png",Unicable HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F980
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/maschic.png",Más chic
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F643
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoverycivilization.png",Discovery Civilization
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F252
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/telemundo.png",Chivas vs Tigres
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1145
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/golperu.png",Gol Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F490
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Hercules 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F550
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Accion Sagas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F159
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/fxm.png",FXM
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F478
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/pakapaka.png",PakaPaka
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F748
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/beinsportsn.png",BeinSports Ñ HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F91
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/muchmusic.png",Much Music
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F686
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/cdfpremium.png",CDF Premium HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F143
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/universal_comedy.png",Universal Comedy HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F992
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F439
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/axn.png",AXN WHITE HD (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F61
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Duelo Xiaolin 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F330
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/hola.png",Hola TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F564
+
+#EXTINF:-1 group-title="Religion" tvg-logo="http://i.tvcluboficial.com/enlace.png",Enlace
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1092
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/movistar_series.png",Movistar Series HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F669
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ligadecampeones.png",Liga de Campeones 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F617
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/skysports.png",Sky Sports Bundesliga
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1124
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/azcorazon.png",Az Corazón HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F68
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/goltv.png",Gol TV HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F492
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/pe_panamericana.png",Panamericana | Peru
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1064
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tvcdeportes.png",TVC Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F965
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/paramount.png",Paramount HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F753
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/movistar_deportes.png",Movistar Deportes HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F665
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/cdnsportsmax.png",CDN Sportsmax
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F146
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/la2hd.png",La 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F589
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/golfchannel.png",Golf Channel HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F504
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/peppapig.png",Peppa Pig 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F760
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/garagetv.png",Garage TV HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F485
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/goltv.png",Gol TV | España
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1125
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Terror HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F181
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/toros.png",Canal+ Toros
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F121
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/starz_encorefamily.png",Starz Encore Family
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F843
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/dpeliculaclasico.png",De Pelicula Clasico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F236
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/nicktoons.png",Nick Toons
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F735
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/vh1.png",VH1
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1016
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Doug 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F298
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vix.png",Vix Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1116
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/cartoonnetwork.png",Cartoon Network HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F132
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/starz_hd.png",Starz HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F844
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Infantil Sagas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F171
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elcondepatula.png",El Conde Patula 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F345
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/discoverykids.png",Discovery Kids
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F264
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vix.png",Vix Deportes 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1136
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ho_deportestvc.png",Deportes TVC | Honduras
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1071
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/azclic.png",Az Clic
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F64
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elpajaroloco.png",El Pajaro Loco 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F355
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/starz_comedy.png",Starz Comedy
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F840
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F167
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/itv.png",ITV Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1095
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/glitz.png",Glitz
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F488
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ho_canal5.png",Canal 5 Honduras
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F109
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/animalplanet.png",Animal Planet HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F42
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/unicable.png",Unicable
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F978
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/telehitmusica.png",Telehit HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F879
+
+#EXTINF:-1 group-title="Religion" tvg-logo="http://i.tvcluboficial.com/ve_alcancetv.png",Alcance TV | Venezuela
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1086
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/mtvlive.png",MTV Live
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F683
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://puu.sh/xdUYa/051eb44501.png",Dragon Ball Z 24/7 Op.2 
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F308
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/cdf.png",CDF Premium
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F142
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tlnovelasunivision.png",Univision Tlnovelas
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1013
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/disneyxd.png",Disney XD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F289
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/teleritmo.png",TLR HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F918
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/novelisima.png",Novelisima HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1150
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsports2.png",Fox Sports 2 | HD Sur
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F438
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/elcoyote.png",El Coyote y el Correcaminos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F346
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/mazingerz.png",Mazinger Z 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F649
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tigosports.png",Tigo Sports Guatemala
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F904
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vix.png",Vix Deportes 4
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1137
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/star_fun.png",Star Fun
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F836
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/gamavision.png",Gamavision
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F483
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/tve.png",TVE HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F969
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports2sur.png",Fox Sports 2 | Chile
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1123
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/sa_canal4.png",Canal 4 | El Salvador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1081
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Nosotros los Guapos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F739
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png",Movistar LaLiga HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F668
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/morbidotv.png",Morbido TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F659
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://i.tvcluboficial.com/discoveryworld.png",Discovery World
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F276
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lahorapico.png",La Hora Pico 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F593
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/happytreefriends.png",Happy Tree Friends 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F511
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/cartoonito.png",Cartoonito HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F137
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ur_vtvplus.png",VTV Plus | Uruguay
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1072
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/nfl.png",NFL Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F720
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/imagentv.png",Imagen Televisión HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F577
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F168
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/locomotion.png",Locomotion
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1096
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/fox.png",Fox (ES) HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F430
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/telemax.png",Telemax
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F883
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/spiderman.png",Spiderman 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F827
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ve_aguacate.png",Aguacate TV | Venezuela
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1087
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/trece_colombia.png",Trece
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F943
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Zombis HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F184
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/tigosports.png",TigoSports | Costa Rica
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1077
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F464
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/co_uno.png",Canal Uno (1) | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1014
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vix.png",Vix Deportes 5
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1152
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/studiouniversal.png",Studio Universal HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F848
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/multimedios.png",Multimedios Plus
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F694
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tigosports.png",TigoSports Bolivia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F905
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/dhe.png",DHE
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F242
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/star_hits.png",Star Hits HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F837
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Comedia 2 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F164
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/patrullacanina.png",Patrulla Canina 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F759
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/247.png",Calabozos y Dragones 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F103
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/teledeporte.png",Teledeporte HD (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F872
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/sa_canal6.png",Canal 6 | El Salvador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1082
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/nova.png",Nova (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F740
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/nhl.png",NHL Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F723
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/casocerrado.png",Caso Cerrado 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F138
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/foxsports.png",Fox Sports HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F454
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.tvcluboficial.com/foxnews.png",Fox News
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F433
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/unicable.png",Unicable HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F981
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/play.png",Max Prime HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F646
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/starz_encoreblack.png",Starz Encore Black
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F842
+
+#EXTINF:-1 group-title="USA" tvg-logo="http://i.tvcluboficial.com/popcornflix.png",PopCornFlix HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F775
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/multimedios.png",Multimedios
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F690
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/ve_reformatv.png",Reforma TV | Venezuela
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1088
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/fxm.png",FXM HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F480
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/nickjr.png",Nick JR HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F732
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/vamos.png",Vamos HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1015
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Series Comedia 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F807
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.tvcluboficial.com/nbc.png",NBC HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F713
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/cinemadinamita.png",Cinema Dinamita
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1153
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/f1.png",Formula 1 TV (F1)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F426
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/losvengadoresunidos.png",Los Vengadores Unidos 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F638
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/tigosports.png",TigoSports Paraguay
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F906
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ur_vtvplus.png",VTV Plus HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1142
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/htv.png",HTV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F568
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/startve.png",StarTVE
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F838
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F165
+
+#EXTINF:-1 group-title="Religion" tvg-logo="http://i.tvcluboficial.com/ewtn.png",EWTN
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1093
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/sa_canal12.png",Canal 12 | El Salvador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1083
+
+#EXTINF:-1 group-title="24/7" tvg-logo="",Futurama 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F473
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/beinsports.png",BeinSports
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F88
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/aplus.png",A+
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F9
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/tudn.png",TUDN HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F955
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/comedycentral.png",Comedy Central
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F216
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/southpark.png",South Park 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F820
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/sailormoon.png",Sailor Moon 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F799
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/cbeebies.png",CBeebies
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F139
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/cr_futv.png",Futv | Costa Rica
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1074
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/univisiondeportes.png",Univisión Deportes
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1010
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/maccion.png",Movistar Accion HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F661
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/tbs.png",TBS Very Funny
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F859
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/pxtv.png",PX TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F778
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/maxsteel.png",Max Steel 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F647
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/teleritmo.png",TLR (Teleritmo)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F916
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Infantil HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F170
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/aztecaguate.png",Azteca Guate
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1098
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/televicentro.png",Televicentro (TVC) | Ecuador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F966
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Comedia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F161
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/skysports.png",SKY Sports Premier HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F811
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/cdopremium.png",CDO Premium
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F149
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/letemesalaoscuridad.png",Le Temes a la Oscuridad 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F611
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/greysanatomy.png",Greys Anatomy 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F505
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/pa_rpc.png",RPC Panama
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1158
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/supernatural.png",Supernatural 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F851
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Ficcion/Fantasia 2
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F166
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/mx_justiciatv.png",Justicia TV
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1094
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/play.png",Music Now
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F698
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/ufc.png",UFC Network
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F977
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/tiin.png",Tiin
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F907
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://i.tvcluboficial.com/isat.png",I.Sat
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F572
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/cr_canal6.png",Canal 6 | Costa Rica
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1084
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/pac12.png",PAC12 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F746
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/beinsports.png",BeinSports HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F89
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/mtv.png",MTV (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F674
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/comedycentral.png",Comedy Central (ES)
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F219
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="http://i.tvcluboficial.com/cbs.png",CBS HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F140
+
+#EXTINF:-1 group-title="Sin categoria" tvg-logo="http://i.tvcluboficial.com/foxsportspremium.png",Fox Sports Premium 
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F461
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/play.png",Univisión TDN
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1012
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/movistar_comedia.png",Movistar Cine Ñ
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F662
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/tn.png",TN
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1164
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lavacayelpollito.png",La Vaca y ElPollito 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F606
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/tbs.png",TBS Very Funny HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F860
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Terror Sagas HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F182
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/quieromusica.png",Quiero Musica
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F779
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/co_telecaribe.png",Telecaribe | Colombia
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1066
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/play.png",Max Up HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F648
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/teleritmo.png",TLR HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F917
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/novelisima.png",Novelisima
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1149
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/ironman.png",Ironman 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F582
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Comedia 1 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F162
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/galatv.png",Gala TV HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F482
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/breakingbad.png",Breaking Bad 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F98
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/fearthewalkingdead.png",Fear The Walking Dead 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F415
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/multimedios.png",Multimedios (Monterrey) HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F692
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/tve.png",TVE
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F968
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/celebritydeathmatch.png",Celebrity Deathmatch (EN) 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F150
+
+#EXTINF:-1 group-title="Nacionales" tvg-logo="http://i.tvcluboficial.com/sa_canal3.png",Canal 3 | El Salvador
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1080
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://i.tvcluboficial.com/nickelodeon.png",Nickelodeon
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F736
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/vh1.png",VH1 HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1017
+
+#EXTINF:-1 group-title="España" tvg-logo="http://i.tvcluboficial.com/movistar_estrenos.png",Movistar Estrenos HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F667
+
+#EXTINF:-1 group-title="HD" tvg-logo="http://i.tvcluboficial.com/trutv.png",TruTv HD
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F950
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/drhouse.png",Dr. House 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F299
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/lifetime.png",Lifetime
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F615
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/lafamiliamonster.png",La Familia Monster 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F591
+
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://i.tvcluboficial.com/cine247.png",Cine Romance
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F178
+
+#EXTINF:-1 group-title="Musica" tvg-logo="http://i.tvcluboficial.com/ritmoson.png",Ritmoson Latino
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F792
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://i.tvcluboficial.com/foxsports3.png",Fox Sports 3 | Mexico
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F448
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://i.tvcluboficial.com/neongenesis.png",Neon Genesis Evangelion 24/7
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F716
+
+#EXTINF:-1 group-title="Eventos" tvg-logo="https://i.tvcluboficial.com/event/sportboysvsuniversitario.jpg",Sport Boys vs Universitario
+https://flixapp.strymix.com/proxy.php?url=https%3A%2F%2Fappdepo.alwaysdata.net%2Fstreams%2Fmagma%2Fstream.php%3Fr%3D%252Fstream%252F1070
