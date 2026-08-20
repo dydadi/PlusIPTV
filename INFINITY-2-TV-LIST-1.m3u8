@@ -161,6 +161,9 @@ http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MzI1IExBVDogTWF1c2FuIFRWIC8gTWF1
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",318 LAT: Hola TV
 http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MzE4IExBVDogSG9sYSBUVg==&t=p&f=.m3u8
 
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",110 LAT: Telemundo 47 / Sr de los Cielos 7PM - Lejos de Ti 8PM - Telemundo NY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTEwIExBVDogVGVsZW11bmRvIDQ3IC8gU3IgZGUgbG9zIENpZWxvcyA3UE0gLSBMZWpvcyBkZSBUaSA4UE0gLSBUZWxlbXVuZG8gTlk=&t=p&f=.m3u8
+
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",110 LAT: Telemundo Las Vegas
 http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTEwIExBVDogVGVsZW11bmRvIExhcyBWZWdhcw==&t=p&f=.m3u8
 
@@ -536,127 +539,6 @@ http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NDA4IExBVDogVGVsZSBSaXRtbyAvIFRl
 
 
 
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",180 CHIN: CCTV 4 / CCTV 4 China - Mandarin
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgwIENISU46IENDVFYgNCAvIENDVFYgNCBDaGluYSAtIE1hbmRhcmlu&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",183 JAP: NHK TV
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgzIEpBUDogTkhLIFRW&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",183 JAP: NHK TV
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgzIEpBUDogTkhLIFRW&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",185 PER: America / America - Peru
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg1IFBFUjogQW1lcmljYSAvIEFtZXJpY2EgLSBQZXJ1&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",186 PER: Antares / Antares - Peru
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg2IFBFUjogQW50YXJlcyAvIEFudGFyZXMgLSBQZXJ1&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",187 PER: Latina / Latina - Peru
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg3IFBFUjogTGF0aW5hIC8gTGF0aW5hIC0gUGVydQ==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",189 PER: TV Peru / TV Peru
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg5IFBFUjogVFYgUGVydSAvIFRWIFBlcnU=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",191 PR: Telemundo PR / Telemundo Puerto Rico
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTkxIFBSOiBUZWxlbXVuZG8gUFIgLyBUZWxlbXVuZG8gUHVlcnRvIFJpY28=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",192 PR: Univision PR / Univision Puerto Rico
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTkyIFBSOiBVbml2aXNpb24gUFIgLyBVbml2aXNpb24gUHVlcnRvIFJpY28=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",384 ES: 24 Horas News
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Mzg0IEVTOiAyNCBIb3JhcyBOZXdz&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",145 ES: La 1
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ1IEVTOiBMYSAx&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",146 ES: La 2 / La 2 Espana
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ2IEVTOiBMYSAyIC8gTGEgMiBFc3BhbmE=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",147 ES: Antena 3
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ3IEVTOiBBbnRlbmEgMw==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",148 ES: Antena 3 Internacional
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ4IEVTOiBBbnRlbmEgMyBJbnRlcm5hY2lvbmFs&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",149 ES: Cuatro
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ5IEVTOiBDdWF0cm8=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",150 ES: Telecinco
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTUwIEVTOiBUZWxlY2luY28=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",151 ES: La Sexta
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTUxIEVTOiBMYSBTZXh0YQ==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",154 ES: AMC
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU0IEVTOiBBTUM=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",155 ES: A3 Series
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU1IEVTOiBBMyBTZXJpZXM=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",156 ES: AXN
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU2IEVTOiBBWE4=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",157 ES: beMAD / beMAD
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU3IEVTOiBiZU1BRCAvIGJlTUFE&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",158 ES: Break / Break - Espana
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU4IEVTOiBCcmVhayAvIEJyZWFrIC0gRXNwYW5h&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",159 ES: Calle 13
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU5IEVTOiBDYWxsZSAxMw==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",160 ES: Canal Andalucia / Canal Andalucia
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYwIEVTOiBDYW5hbCBBbmRhbHVjaWEgLyBDYW5hbCBBbmRhbHVjaWE=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",161 ES: Canal Cocina
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYxIEVTOiBDYW5hbCBDb2NpbmE=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",162 ES: De Casa
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYyIEVTOiBEZSBDYXNh&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",164 ES: Dark / Dark
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY0IEVTOiBEYXJrIC8gRGFyaw==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",165 ES: Energy
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY1IEVTOiBFbmVyZ3k=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",166 ES: Fox
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY2IEVTOiBGb3g=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",168 ES: Mega
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY4IEVTOiBNZWdh&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",169 ES: National Geographic
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY5IEVTOiBOYXRpb25hbCBHZW9ncmFwaGlj&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",170 ES: Nature / Nature Time
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcwIEVTOiBOYXR1cmUgLyBOYXR1cmUgVGltZQ==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",171 ES: Negocios / Negocios
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcxIEVTOiBOZWdvY2lvcyAvIE5lZ29jaW9z&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",172 ES: Neox
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcyIEVTOiBOZW94&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",173 ES: Nova
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTczIEVTOiBOb3Zh&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",174 ES: Odisea / Odisea
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc0IEVTOiBPZGlzZWEgLyBPZGlzZWE=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",175 ES: STAR TVE
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc1IEVTOiBTVEFSIFRWRQ==&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",176 ES: TVE
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc2IEVTOiBUVkU=&t=p&f=.m3u8
-
-#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",177 ES: Telemadrid
-http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc3IEVTOiBUZWxlbWFkcmlk&t=p&f=.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",103 MEX: Mi Bella Genio / Mi Bella Genio - 24x7
 http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTAzIE1FWDogTWkgQmVsbGEgR2VuaW8gLyBNaSBCZWxsYSBHZW5pbyAtIDI0eDc=&t=f&f=.m3u8
@@ -868,3 +750,518 @@ http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDY4IEVTOiAjIFZhbW9z&t=p&f=.m3u8
 
 #EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",069 COL: Win Sports / Win Sports - Colombia
 http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDY5IENPTDogV2luIFNwb3J0cyAvIFdpbiBTcG9ydHMgLSBDb2xvbWJpYQ==&t=p&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",180 CHIN: CCTV 4 / CCTV 4 China - Mandarin
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgwIENISU46IENDVFYgNCAvIENDVFYgNCBDaGluYSAtIE1hbmRhcmlu&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",183 JAP: NHK TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgzIEpBUDogTkhLIFRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",183 JAP: NHK TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTgzIEpBUDogTkhLIFRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",185 PER: America / America - Peru
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg1IFBFUjogQW1lcmljYSAvIEFtZXJpY2EgLSBQZXJ1&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",186 PER: Antares / Antares - Peru
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg2IFBFUjogQW50YXJlcyAvIEFudGFyZXMgLSBQZXJ1&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",187 PER: Latina / Latina - Peru
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg3IFBFUjogTGF0aW5hIC8gTGF0aW5hIC0gUGVydQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",189 PER: TV Peru / TV Peru
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTg5IFBFUjogVFYgUGVydSAvIFRWIFBlcnU=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",191 PR: Telemundo PR / Telemundo Puerto Rico
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTkxIFBSOiBUZWxlbXVuZG8gUFIgLyBUZWxlbXVuZG8gUHVlcnRvIFJpY28=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",192 PR: Univision PR / Univision Puerto Rico
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTkyIFBSOiBVbml2aXNpb24gUFIgLyBVbml2aXNpb24gUHVlcnRvIFJpY28=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",384 ES: 24 Horas News
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Mzg0IEVTOiAyNCBIb3JhcyBOZXdz&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",145 ES: La 1
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ1IEVTOiBMYSAx&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",146 ES: La 2 / La 2 Espana
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ2IEVTOiBMYSAyIC8gTGEgMiBFc3BhbmE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",147 ES: Antena 3
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ3IEVTOiBBbnRlbmEgMw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",148 ES: Antena 3 Internacional
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ4IEVTOiBBbnRlbmEgMyBJbnRlcm5hY2lvbmFs&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",149 ES: Cuatro
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTQ5IEVTOiBDdWF0cm8=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",150 ES: Telecinco
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTUwIEVTOiBUZWxlY2luY28=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",151 ES: La Sexta
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTUxIEVTOiBMYSBTZXh0YQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",154 ES: AMC
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU0IEVTOiBBTUM=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",155 ES: A3 Series
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU1IEVTOiBBMyBTZXJpZXM=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",156 ES: AXN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU2IEVTOiBBWE4=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",157 ES: beMAD / beMAD
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU3IEVTOiBiZU1BRCAvIGJlTUFE&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",158 ES: Break / Break - Espana
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU4IEVTOiBCcmVhayAvIEJyZWFrIC0gRXNwYW5h&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",159 ES: Calle 13
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTU5IEVTOiBDYWxsZSAxMw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",160 ES: Canal Andalucia / Canal Andalucia
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYwIEVTOiBDYW5hbCBBbmRhbHVjaWEgLyBDYW5hbCBBbmRhbHVjaWE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",161 ES: Canal Cocina
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYxIEVTOiBDYW5hbCBDb2NpbmE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",162 ES: De Casa
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTYyIEVTOiBEZSBDYXNh&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",164 ES: Dark / Dark
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY0IEVTOiBEYXJrIC8gRGFyaw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",165 ES: Energy
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY1IEVTOiBFbmVyZ3k=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",166 ES: Fox
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY2IEVTOiBGb3g=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",168 ES: Mega
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY4IEVTOiBNZWdh&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",169 ES: National Geographic
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTY5IEVTOiBOYXRpb25hbCBHZW9ncmFwaGlj&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",170 ES: Nature / Nature Time
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcwIEVTOiBOYXR1cmUgLyBOYXR1cmUgVGltZQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",171 ES: Negocios / Negocios
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcxIEVTOiBOZWdvY2lvcyAvIE5lZ29jaW9z&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",172 ES: Neox
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTcyIEVTOiBOZW94&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",173 ES: Nova
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTczIEVTOiBOb3Zh&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",174 ES: Odisea / Odisea
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc0IEVTOiBPZGlzZWEgLyBPZGlzZWE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",175 ES: STAR TVE
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc1IEVTOiBTVEFSIFRWRQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",176 ES: TVE
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc2IEVTOiBUVkU=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",177 ES: Telemadrid
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MTc3IEVTOiBUZWxlbWFkcmlk&t=p&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",533 USA: HBO
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTMzIFVTQTogSEJP&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",534 USA: HBO Comedy
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTM0IFVTQTogSEJPIENvbWVkeQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",535 USA: HBO / HBO Movies
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTM1IFVTQTogSEJPIC8gSEJPIE1vdmllcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",536 USA: HBO Signature
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTM2IFVTQTogSEJPIFNpZ25hdHVyZQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",537 USA: Showtime
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTM3IFVTQTogU2hvd3RpbWU=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",538 USA: Showtime Extreme
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTM4IFVTQTogU2hvd3RpbWUgRXh0cmVtZQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",598 USA: CBC / CBC Canada
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTk4IFVTQTogQ0JDIC8gQ0JDIENhbmFkYQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",599 CAN: Global / Global - Canada
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NTk5IENBTjogR2xvYmFsIC8gR2xvYmFsIC0gQ2FuYWRh&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",600 USA: AMC
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjAwIFVTQTogQU1D&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",601 USA: A&amp;E
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjAxIFVTQTogQSZF&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",602 USA: Animal Planet
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjAyIFVTQTogQW5pbWFsIFBsYW5ldA==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",603 USA: BBC America
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjAzIFVTQTogQkJDIEFtZXJpY2E=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",604 USA: BET
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA0IFVTQTogQkVU&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",605 USA: BET Her
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA1IFVTQTogQkVUIEhlcg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",606 USA: Bravo
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA2IFVTQTogQnJhdm8=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",606 USA: CMT
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA2IFVTQTogQ01U&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",607 USA: Comedy Central
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA3IFVTQTogQ29tZWR5IENlbnRyYWw=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",608 USA: Comet TV / Comet TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA4IFVTQTogQ29tZXQgVFYgLyBDb21ldCBUVg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",609 USA: Cozi TV / Cozi TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjA5IFVTQTogQ296aSBUViAvIENvemkgVFY=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",610 USA: Cooking Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjEwIFVTQTogQ29va2luZyBDaGFubmVs&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",611 USA: Discovery
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjExIFVTQTogRGlzY292ZXJ5&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",612 USA: Discovery Family
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjEyIFVTQTogRGlzY292ZXJ5IEZhbWlseQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",613 USA: Discovery Life
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjEzIFVTQTogRGlzY292ZXJ5IExpZmU=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",614 USA: Discovery Science
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE0IFVTQTogRGlzY292ZXJ5IFNjaWVuY2U=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",615 USA: Discovery / Discovery Turbo
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE1IFVTQTogRGlzY292ZXJ5IC8gRGlzY292ZXJ5IFR1cmJv&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",616 USA: DIY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE2IFVTQTogRElZ&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",617 USA: Dog TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE3IFVTQTogRG9nIFRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",618 USA: E!
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE4IFVTQTogRSE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",619 USA: Food Network
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjE5IFVTQTogRm9vZCBOZXR3b3Jr&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",620 USA: Free Form
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjIwIFVTQTogRnJlZSBGb3Jt&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",621 USA: Fuse / Fuse
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjIxIFVTQTogRnVzZSAvIEZ1c2U=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",622 USA: FX
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjIyIFVTQTogRlg=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",622 USA: FXM Retro
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjIyIFVTQTogRlhNIFJldHJv&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",623 USA: FXX
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjIzIFVTQTogRlhY&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",624 USA: GSN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI0IFVTQTogR1NO&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",625 USA: HGTV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI1IFVTQTogSEdUVg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",626 USA: History
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI2IFVTQTogSGlzdG9yeQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",627 USA: ID Investigation Discovery
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI3IFVTQTogSUQgSW52ZXN0aWdhdGlvbiBEaXNjb3Zlcnk=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",628 USA: ION / ION - Series 24x7
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI4IFVTQTogSU9OIC8gSU9OIC0gU2VyaWVzIDI0eDc=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",629 USA: Lifetime
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjI5IFVTQTogTGlmZXRpbWU=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",630 USA: Logo
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMwIFVTQTogTG9nbw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",631 USA: LMN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMxIFVTQTogTE1O&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",632 USA: Love Nature / Love Nature - Animals 24x7
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMyIFVTQTogTG92ZSBOYXR1cmUgLyBMb3ZlIE5hdHVyZSAtIEFuaW1hbHMgMjR4Nw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",632 USA: ME TV / ME TV - Series 24x7
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMyIFVTQTogTUUgVFYgLyBNRSBUViAtIFNlcmllcyAyNHg3&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",632 USA: Nasa TV / Nasa TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMyIFVTQTogTmFzYSBUViAvIE5hc2EgVFY=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",633 USA: NatGeo
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjMzIFVTQTogTmF0R2Vv&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",634 USA: Nat Geo Wild
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjM0IFVTQTogTmF0IEdlbyBXaWxk&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",635 USA: OWN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjM1IFVTQTogT1dO&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",636 USA: Oxygen
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjM2IFVTQTogT3h5Z2Vu&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",637 USA: Paramount
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjM3IFVTQTogUGFyYW1vdW50&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",639 USA: Pop
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjM5IFVTQTogUG9w&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",640 USA: Sundance
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQwIFVTQTogU3VuZGFuY2U=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",641 USA: SYFY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQxIFVTQTogU1lGWQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",642 USA: Taste Made / Taste Made - Cooking - 24X7
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQyIFVTQTogVGFzdGUgTWFkZSAvIFRhc3RlIE1hZGUgLSBDb29raW5nIC0gMjRYNw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",643 USA: TBS
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQzIFVTQTogVEJT&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",644 USA: TLC
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQ0IFVTQTogVExD&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",645 USA: TNT
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQ1IFVTQTogVE5U&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",646 USA: Travel Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQ2IFVTQTogVHJhdmVsIENoYW5uZWw=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",647 USA: TRU TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQ3IFVTQTogVFJVIFRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",648 USA: USA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjQ4IFVTQTogVVNB&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",651 USA: Boomerang
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjUxIFVTQTogQm9vbWVyYW5n&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",652 USA: Disney Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjUyIFVTQTogRGlzbmV5IENoYW5uZWw=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",653 USA: Disney Jr
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjUzIFVTQTogRGlzbmV5IEpy&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",654 USA: Disney XD
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjU0IFVTQTogRGlzbmV5IFhE&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",655 USA: Nick
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjU1IFVTQTogTmljaw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",656 USA: Nick Jr
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjU2IFVTQTogTmljayBKcg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",658 USA: PBS Kids / PBS Kids
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjU4IFVTQTogUEJTIEtpZHMgLyBQQlMgS2lkcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",659 USA: BET Jams / BET Jams
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjU5IFVTQTogQkVUIEphbXMgLyBCRVQgSmFtcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",660 USA: Stingray / Rock Concert
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjYwIFVTQTogU3RpbmdyYXkgLyBSb2NrIENvbmNlcnQ=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",661 USA: MTV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjYxIFVTQTogTVRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",662 USA: Stingray / Pop Concerts
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjYyIFVTQTogU3RpbmdyYXkgLyBQb3AgQ29uY2VydHM=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",663 USA: MTV 2
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjYzIFVTQTogTVRWIDI=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",666 USA: NOW / NOW 70s
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjY2IFVTQTogTk9XIC8gTk9XIDcwcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",667 USA: NOW / NOW 80s
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjY3IFVTQTogTk9XIC8gTk9XIDgwcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",668 USA: NOW / NOW 90s
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjY4IFVTQTogTk9XIC8gTk9XIDkwcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",669 USA: VH1
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjY5IFVTQTogVkgx&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",670 USA: Aljazera
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjcwIFVTQTogQWxqYXplcmE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",671 USA: BBC World News
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjcxIFVTQTogQkJDIFdvcmxkIE5ld3M=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",672 USA: Bloomberg
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjcyIFVTQTogQmxvb21iZXJn&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",673 USA: CNN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjczIFVTQTogQ05O&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",673 USA: CNN International
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjczIFVTQTogQ05OIEludGVybmF0aW9uYWw=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",674 USA: CNBC
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc0IFVTQTogQ05CQw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",675 USA: Fox News Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc1IFVTQTogRm94IE5ld3MgQ2hhbm5lbA==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",676 USA: MSNBC
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc2IFVTQTogTVNOQkM=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",677 USA: RT / RT News English
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc3IFVTQTogUlQgLyBSVCBOZXdzIEVuZ2xpc2g=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",678 USA: The Weather / The Weather Channel - 24x7
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc4IFVTQTogVGhlIFdlYXRoZXIgLyBUaGUgV2VhdGhlciBDaGFubmVsIC0gMjR4Nw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",679 USA: Hallmark
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njc5IFVTQTogSGFsbG1hcms=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",680 USA: Hallmark Drama
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjgwIFVTQTogSGFsbG1hcmsgRHJhbWE=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",681 USA: Hallmark Movies
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjgxIFVTQTogSGFsbG1hcmsgTW92aWVz&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",682 UK: BBC 1 / BBC 1 UK
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjgyIFVLOiBCQkMgMSAvIEJCQyAxIFVL&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",683 UK: ITV 2 / ITV 2 - UK
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjgzIFVLOiBJVFYgMiAvIElUViAyIC0gVUs=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",684 USA: WGN / WGN Chicago
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg0IFVTQTogV0dOIC8gV0dOIENoaWNhZ28=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",685 USA: ABC NY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg1IFVTQTogQUJDIE5Z&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",686 USA: CBS NY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg2IFVTQTogQ0JTIE5Z&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",687 USA: FOX NY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg3IFVTQTogRk9YIE5Z&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",688 USA: NBC NY
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg4IFVTQTogTkJDIE5Z&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",689 USA: MY 9 / MY 9 - WWOR - New York
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njg5IFVTQTogTVkgOSAvIE1ZIDkgLSBXV09SIC0gTmV3IFlvcms=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",690 USA: WPIX
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjkwIFVTQTogV1BJWA==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",691 USA: ABC LA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjkxIFVTQTogQUJDIExB&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",692 USA: CBS LA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjkyIFVTQTogQ0JTIExB&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",693 USA: FOX LA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NjkzIFVTQTogRk9YIExB&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",694 USA: NBC LA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njk0IFVTQTogTkJDIExB&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",697 USA: KTLA
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Njk3IFVTQTogS1RMQQ==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",019 USA: CBS / Golazo
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDE5IFVTQTogQ0JTIC8gR29sYXpv&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",020 USA: CBS Sports Net
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDIwIFVTQTogQ0JTIFNwb3J0cyBOZXQ=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",029 USA: ESPN 2
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDI5IFVTQTogRVNQTiAy&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",030 USA: ESPN SEC / SEC ESPN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDMwIFVTQTogRVNQTiBTRUMgLyBTRUMgRVNQTg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",031 USA: ESPN U
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDMxIFVTQTogRVNQTiBV&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",038 USA: Fox Soccer
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDM4IFVTQTogRm94IFNvY2Nlcg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",042 USA: FS1
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDQyIFVTQTogRlMx&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",043 USA: FS2
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDQzIFVTQTogRlMy&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",046 UK: Golf / Sky Sports Golf
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDQ2IFVLOiBHb2xmIC8gU2t5IFNwb3J0cyBHb2xm&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",047 USA: NBC Golf
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDQ3IFVTQTogTkJDIEdvbGY=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",049 USA: NBCSN / Dan Patrick 7AM -Chris Simms 1PM - NBCSN
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDQ5IFVTQTogTkJDU04gLyBEYW4gUGF0cmljayA3QU0gLUNocmlzIFNpbW1zIDFQTSAtIE5CQ1NO&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",050 USA: NBCS Boston / NBCS Boston
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDUwIFVTQTogTkJDUyBCb3N0b24gLyBOQkNTIEJvc3Rvbg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",051 USA: NFL Network
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDUxIFVTQTogTkZMIE5ldHdvcms=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",052 UK: NFL / SKY NFL
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDUyIFVLOiBORkwgLyBTS1kgTkZM&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",053 USA: NHL Network
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDUzIFVTQTogTkhMIE5ldHdvcms=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",054 USA: Outdoor Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDU0IFVTQTogT3V0ZG9vciBDaGFubmVs&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",055 USA: Red Bull TV / Red Bull TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDU1IFVTQTogUmVkIEJ1bGwgVFYgLyBSZWQgQnVsbCBUVg==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",057 USA: Sportsman
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDU3IFVTQTogU3BvcnRzbWFu&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",058 USA: SportsNet / Spectrum Lakers
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDU4IFVTQTogU3BvcnRzTmV0IC8gU3BlY3RydW0gTGFrZXJz&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",059 UK: Tennis / SKY Sports Tennis
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDU5IFVLOiBUZW5uaXMgLyBTS1kgU3BvcnRzIFRlbm5pcw==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",060 USA: Tennis Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDYwIFVTQTogVGVubmlzIENoYW5uZWw=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",061 USA: The Cowboy Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDYxIFVTQTogVGhlIENvd2JveSBDaGFubmVs&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",066 USA: TVG
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDY2IFVTQTogVFZH&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",070 USA: World / World Fishing Network
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=MDcwIFVTQTogV29ybGQgLyBXb3JsZCBGaXNoaW5nIE5ldHdvcms=&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",299 USA: Canela TV / Canela TV
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=Mjk5IFVTQTogQ2FuZWxhIFRWIC8gQ2FuZWxhIFRW&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",401 USA: Concert / Concert Channel
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NDAxIFVTQTogQ29uY2VydCAvIENvbmNlcnQgQ2hhbm5lbA==&t=p&f=.m3u8
+
+#EXTINF:-1 group-title="RQTVPLUS" tvg-logo="",405 USA: NOW Rock / NOW Rock - Classic Videos
+http://apps2026.online/nuevorqtv/rqtvpro3.php?p=NDA1IFVTQTogTk9XIFJvY2sgLyBOT1cgUm9jayAtIENsYXNzaWMgVmlkZW9z&t=p&f=.m3u8
